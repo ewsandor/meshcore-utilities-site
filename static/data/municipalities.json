@@ -22,7 +22,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -68,7 +69,8 @@
                     "fourteen_letter": "WASHINGTON"
                 },
                 "name": "Washington",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "121",
                 "geojson_id": 307,
                 "license_plate_codes": {
@@ -114,7 +116,8 @@
                     "fourteen_letter": "ALAMOSA"
                 },
                 "name": "Alamosa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "003",
                 "geojson_id": 247,
                 "license_plate_codes": {
@@ -160,7 +163,8 @@
                     "fourteen_letter": "PARK"
                 },
                 "name": "Park",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "093",
                 "geojson_id": 293,
                 "license_plate_codes": {
@@ -206,7 +210,8 @@
                     "fourteen_letter": "CONEJOS"
                 },
                 "name": "Conejos",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "021",
                 "geojson_id": 257,
                 "license_plate_codes": {
@@ -252,7 +257,8 @@
                     "fourteen_letter": "LINCOLN"
                 },
                 "name": "Lincoln",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "073",
                 "geojson_id": 283,
                 "license_plate_codes": {
@@ -298,7 +304,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -319,7 +326,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -366,7 +374,8 @@
                     "fourteen_letter": "PITKIN"
                 },
                 "name": "Pitkin",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "097",
                 "geojson_id": 295,
                 "license_plate_codes": {
@@ -412,7 +421,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -458,7 +468,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -479,7 +490,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -500,7 +512,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -546,7 +559,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -592,7 +606,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -612,7 +627,8 @@
                     "fourteen_letter": "PITKIN"
                 },
                 "name": "Pitkin",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "097",
                 "geojson_id": 295,
                 "license_plate_codes": {
@@ -658,7 +674,8 @@
                     "fourteen_letter": "LAPLATA"
                 },
                 "name": "La Plata",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "067",
                 "geojson_id": 280,
                 "license_plate_codes": {
@@ -704,7 +721,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -725,7 +743,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -772,7 +791,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -793,7 +813,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -839,7 +860,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -885,7 +907,8 @@
                     "fourteen_letter": "GILPIN"
                 },
                 "name": "Gilpin",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "047",
                 "geojson_id": 270,
                 "license_plate_codes": {
@@ -931,7 +954,8 @@
                     "fourteen_letter": "COSTILLA"
                 },
                 "name": "Costilla",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "023",
                 "geojson_id": 258,
                 "license_plate_codes": {
@@ -977,7 +1001,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -1024,7 +1049,8 @@
                     "fourteen_letter": "SAGUACHE"
                 },
                 "name": "Saguache",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "109",
                 "geojson_id": 301,
                 "license_plate_codes": {
@@ -1070,7 +1096,8 @@
                     "fourteen_letter": "PUEBLO"
                 },
                 "name": "Pueblo",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "101",
                 "geojson_id": 297,
                 "license_plate_codes": {
@@ -1116,7 +1143,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -1163,7 +1191,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -1184,7 +1213,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -1231,7 +1261,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -1277,7 +1308,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -1324,7 +1356,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -1345,7 +1378,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -1391,7 +1425,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -1437,7 +1472,8 @@
                     "fourteen_letter": "BROOMFIELD"
                 },
                 "name": "Broomfield",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "014",
                 "geojson_id": 253,
                 "license_plate_codes": {
@@ -1479,7 +1515,8 @@
                     "fourteen_letter": "MORGAN"
                 },
                 "name": "Morgan",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "087",
                 "geojson_id": 290,
                 "license_plate_codes": {
@@ -1525,7 +1562,8 @@
                     "fourteen_letter": "CHAFFEE"
                 },
                 "name": "Chaffee",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "015",
                 "geojson_id": 254,
                 "license_plate_codes": {
@@ -1571,7 +1609,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -1617,7 +1656,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -1665,7 +1705,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -1711,7 +1752,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -1757,7 +1799,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -1803,7 +1846,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -1849,7 +1893,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -1895,7 +1940,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -1941,7 +1987,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -1985,7 +2032,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -2032,7 +2080,8 @@
                     "fourteen_letter": "SAGUACHE"
                 },
                 "name": "Saguache",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "109",
                 "geojson_id": 301,
                 "license_plate_codes": {
@@ -2052,7 +2101,8 @@
                     "fourteen_letter": "RIOGRANDE"
                 },
                 "name": "Rio Grande",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "105",
                 "geojson_id": 299,
                 "license_plate_codes": {
@@ -2098,7 +2148,8 @@
                     "fourteen_letter": "GILPIN"
                 },
                 "name": "Gilpin",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "047",
                 "geojson_id": 270,
                 "license_plate_codes": {
@@ -2118,7 +2169,8 @@
                     "fourteen_letter": "CLEARCREEK"
                 },
                 "name": "Clear Creek",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "019",
                 "geojson_id": 256,
                 "license_plate_codes": {
@@ -2164,7 +2216,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -2210,7 +2263,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -2257,7 +2311,8 @@
                     "fourteen_letter": "CHEYENNE"
                 },
                 "name": "Cheyenne",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "017",
                 "geojson_id": 255,
                 "license_plate_codes": {
@@ -2303,7 +2358,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -2349,7 +2405,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -2395,7 +2452,8 @@
                     "fourteen_letter": "MESA"
                 },
                 "name": "Mesa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "077",
                 "geojson_id": 285,
                 "license_plate_codes": {
@@ -2441,7 +2499,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -2489,7 +2548,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -2536,7 +2596,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -2583,7 +2644,8 @@
                     "fourteen_letter": "MONTEZUMA"
                 },
                 "name": "Montezuma",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "083",
                 "geojson_id": 288,
                 "license_plate_codes": {
@@ -2629,7 +2691,8 @@
                     "fourteen_letter": "MOFFAT"
                 },
                 "name": "Moffat",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "081",
                 "geojson_id": 287,
                 "license_plate_codes": {
@@ -2675,7 +2738,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -2719,7 +2783,8 @@
                     "fourteen_letter": "MINERAL"
                 },
                 "name": "Mineral",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "079",
                 "geojson_id": 286,
                 "license_plate_codes": {
@@ -2765,7 +2830,8 @@
                     "fourteen_letter": "GUNNISON"
                 },
                 "name": "Gunnison",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "051",
                 "geojson_id": 272,
                 "license_plate_codes": {
@@ -2811,7 +2877,8 @@
                     "fourteen_letter": "SAGUACHE"
                 },
                 "name": "Saguache",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "109",
                 "geojson_id": 301,
                 "license_plate_codes": {
@@ -2857,7 +2924,8 @@
                     "fourteen_letter": "TELLER"
                 },
                 "name": "Teller",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "119",
                 "geojson_id": 306,
                 "license_plate_codes": {
@@ -2903,7 +2971,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -2949,7 +3018,8 @@
                     "fourteen_letter": "CROWLEY"
                 },
                 "name": "Crowley",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "025",
                 "geojson_id": 259,
                 "license_plate_codes": {
@@ -2995,7 +3065,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -3041,7 +3112,8 @@
                     "fourteen_letter": "MESA"
                 },
                 "name": "Mesa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "077",
                 "geojson_id": 285,
                 "license_plate_codes": {
@@ -3087,7 +3159,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -3134,7 +3207,8 @@
                     "fourteen_letter": "RIOGRANDE"
                 },
                 "name": "Rio Grande",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "105",
                 "geojson_id": 299,
                 "license_plate_codes": {
@@ -3180,7 +3254,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -3224,7 +3299,8 @@
                     "fourteen_letter": "DENVER"
                 },
                 "name": "Denver",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "031",
                 "geojson_id": 262,
                 "license_plate_codes": {
@@ -3270,7 +3346,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -3317,7 +3394,8 @@
                     "fourteen_letter": "MOFFAT"
                 },
                 "name": "Moffat",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "081",
                 "geojson_id": 287,
                 "license_plate_codes": {
@@ -3363,7 +3441,8 @@
                     "fourteen_letter": "MONTEZUMA"
                 },
                 "name": "Montezuma",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "083",
                 "geojson_id": 288,
                 "license_plate_codes": {
@@ -3409,7 +3488,8 @@
                     "fourteen_letter": "DOLORES"
                 },
                 "name": "Dolores",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "033",
                 "geojson_id": 263,
                 "license_plate_codes": {
@@ -3455,7 +3535,8 @@
                     "fourteen_letter": "LAPLATA"
                 },
                 "name": "La Plata",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "067",
                 "geojson_id": 280,
                 "license_plate_codes": {
@@ -3501,7 +3582,8 @@
                     "fourteen_letter": "KIOWA"
                 },
                 "name": "Kiowa",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "061",
                 "geojson_id": 277,
                 "license_plate_codes": {
@@ -3547,7 +3629,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -3593,7 +3676,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -3639,7 +3723,8 @@
                     "fourteen_letter": "YUMA"
                 },
                 "name": "Yuma",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "125",
                 "geojson_id": 309,
                 "license_plate_codes": {
@@ -3685,7 +3770,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -3732,7 +3818,8 @@
                     "fourteen_letter": "ELBERT"
                 },
                 "name": "Elbert",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "039",
                 "geojson_id": 266,
                 "license_plate_codes": {
@@ -3778,7 +3865,8 @@
                     "fourteen_letter": "CLEARCREEK"
                 },
                 "name": "Clear Creek",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "019",
                 "geojson_id": 256,
                 "license_plate_codes": {
@@ -3824,7 +3912,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -3871,7 +3960,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -3891,7 +3981,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -3938,7 +4029,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -3985,7 +4077,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4031,7 +4124,8 @@
                     "fourteen_letter": "PARK"
                 },
                 "name": "Park",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "093",
                 "geojson_id": 293,
                 "license_plate_codes": {
@@ -4077,7 +4171,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -4124,7 +4219,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4170,7 +4266,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -4216,7 +4313,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -4262,7 +4360,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -4308,7 +4407,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -4355,7 +4455,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4401,7 +4502,8 @@
                     "fourteen_letter": "MORGAN"
                 },
                 "name": "Morgan",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "087",
                 "geojson_id": 290,
                 "license_plate_codes": {
@@ -4447,7 +4549,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -4495,7 +4598,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -4541,7 +4645,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -4588,7 +4693,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -4634,7 +4740,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4680,7 +4787,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -4727,7 +4835,8 @@
                     "fourteen_letter": "MESA"
                 },
                 "name": "Mesa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "077",
                 "geojson_id": 285,
                 "license_plate_codes": {
@@ -4773,7 +4882,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4819,7 +4929,8 @@
                     "fourteen_letter": "LINCOLN"
                 },
                 "name": "Lincoln",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "073",
                 "geojson_id": 283,
                 "license_plate_codes": {
@@ -4865,7 +4976,8 @@
                     "fourteen_letter": "CLEARCREEK"
                 },
                 "name": "Clear Creek",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "019",
                 "geojson_id": 256,
                 "license_plate_codes": {
@@ -4911,7 +5023,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -4957,7 +5070,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -5004,7 +5118,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -5050,7 +5165,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -5097,7 +5213,8 @@
                     "fourteen_letter": "PROWERS"
                 },
                 "name": "Prowers",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "099",
                 "geojson_id": 296,
                 "license_plate_codes": {
@@ -5143,7 +5260,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -5189,7 +5307,8 @@
                     "fourteen_letter": "MESA"
                 },
                 "name": "Mesa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "077",
                 "geojson_id": 285,
                 "license_plate_codes": {
@@ -5235,7 +5354,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -5281,7 +5401,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -5327,7 +5448,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -5349,7 +5471,8 @@
                     "fourteen_letter": "TELLER"
                 },
                 "name": "Teller",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "119",
                 "geojson_id": 306,
                 "license_plate_codes": {
@@ -5395,7 +5518,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -5442,7 +5566,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -5488,7 +5613,8 @@
                     "fourteen_letter": "GUNNISON"
                 },
                 "name": "Gunnison",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "051",
                 "geojson_id": 272,
                 "license_plate_codes": {
@@ -5534,7 +5660,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -5580,7 +5707,8 @@
                     "fourteen_letter": "PROWERS"
                 },
                 "name": "Prowers",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "099",
                 "geojson_id": 296,
                 "license_plate_codes": {
@@ -5626,7 +5754,8 @@
                     "fourteen_letter": "PHILLIPS"
                 },
                 "name": "Phillips",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "095",
                 "geojson_id": 294,
                 "license_plate_codes": {
@@ -5672,7 +5801,8 @@
                     "fourteen_letter": "ROUTT"
                 },
                 "name": "Routt",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "107",
                 "geojson_id": 300,
                 "license_plate_codes": {
@@ -5718,7 +5848,8 @@
                     "fourteen_letter": "MORGAN"
                 },
                 "name": "Morgan",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "087",
                 "geojson_id": 290,
                 "license_plate_codes": {
@@ -5764,7 +5895,8 @@
                     "fourteen_letter": "PROWERS"
                 },
                 "name": "Prowers",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "099",
                 "geojson_id": 296,
                 "license_plate_codes": {
@@ -5810,7 +5942,8 @@
                     "fourteen_letter": "PHILLIPS"
                 },
                 "name": "Phillips",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "095",
                 "geojson_id": 294,
                 "license_plate_codes": {
@@ -5856,7 +5989,8 @@
                     "fourteen_letter": "ALAMOSA"
                 },
                 "name": "Alamosa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "003",
                 "geojson_id": 247,
                 "license_plate_codes": {
@@ -5902,7 +6036,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -5948,7 +6083,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -5992,7 +6128,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -6038,7 +6175,8 @@
                     "fourteen_letter": "LINCOLN"
                 },
                 "name": "Lincoln",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "073",
                 "geojson_id": 283,
                 "license_plate_codes": {
@@ -6084,7 +6222,8 @@
                     "fourteen_letter": "CLEARCREEK"
                 },
                 "name": "Clear Creek",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "019",
                 "geojson_id": 256,
                 "license_plate_codes": {
@@ -6130,7 +6269,8 @@
                     "fourteen_letter": "LAPLATA"
                 },
                 "name": "La Plata",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "067",
                 "geojson_id": 280,
                 "license_plate_codes": {
@@ -6176,7 +6316,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -6222,7 +6363,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -6269,7 +6411,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -6289,7 +6432,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -6336,7 +6480,8 @@
                     "fourteen_letter": "SEDGWICK"
                 },
                 "name": "Sedgwick",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "115",
                 "geojson_id": 304,
                 "license_plate_codes": {
@@ -6382,7 +6527,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -6428,7 +6574,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -6474,7 +6621,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -6521,7 +6669,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -6567,7 +6716,8 @@
                     "fourteen_letter": "ELBERT"
                 },
                 "name": "Elbert",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "039",
                 "geojson_id": 266,
                 "license_plate_codes": {
@@ -6613,7 +6763,8 @@
                     "fourteen_letter": "CHEYENNE"
                 },
                 "name": "Cheyenne",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "017",
                 "geojson_id": 255,
                 "license_plate_codes": {
@@ -6659,7 +6810,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -6705,7 +6857,8 @@
                     "fourteen_letter": "CONEJOS"
                 },
                 "name": "Conejos",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "021",
                 "geojson_id": 257,
                 "license_plate_codes": {
@@ -6751,7 +6904,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -6797,7 +6951,8 @@
                     "fourteen_letter": "HUERFANO"
                 },
                 "name": "Huerfano",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "055",
                 "geojson_id": 274,
                 "license_plate_codes": {
@@ -6843,7 +6998,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -6890,7 +7046,8 @@
                     "fourteen_letter": "HINSDALE"
                 },
                 "name": "Hinsdale",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "053",
                 "geojson_id": 273,
                 "license_plate_codes": {
@@ -6936,7 +7093,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -6983,7 +7141,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -7030,7 +7189,8 @@
                     "fourteen_letter": "PROWERS"
                 },
                 "name": "Prowers",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "099",
                 "geojson_id": 296,
                 "license_plate_codes": {
@@ -7076,7 +7236,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -7122,7 +7283,8 @@
                     "fourteen_letter": "BENT"
                 },
                 "name": "Bent",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "011",
                 "geojson_id": 251,
                 "license_plate_codes": {
@@ -7168,7 +7330,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -7214,7 +7377,8 @@
                     "fourteen_letter": "LAKE"
                 },
                 "name": "Lake",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "065",
                 "geojson_id": 279,
                 "license_plate_codes": {
@@ -7260,7 +7424,8 @@
                     "fourteen_letter": "LINCOLN"
                 },
                 "name": "Lincoln",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "073",
                 "geojson_id": 283,
                 "license_plate_codes": {
@@ -7306,7 +7471,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -7327,7 +7493,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -7348,7 +7515,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -7394,7 +7562,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -7414,7 +7583,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -7461,7 +7631,8 @@
                     "fourteen_letter": "MORGAN"
                 },
                 "name": "Morgan",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "087",
                 "geojson_id": 290,
                 "license_plate_codes": {
@@ -7507,7 +7678,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -7553,7 +7725,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -7574,7 +7747,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -7620,7 +7794,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -7667,7 +7842,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -7714,7 +7890,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -7761,7 +7938,8 @@
                     "fourteen_letter": "CONEJOS"
                 },
                 "name": "Conejos",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "021",
                 "geojson_id": 257,
                 "license_plate_codes": {
@@ -7807,7 +7985,8 @@
                     "fourteen_letter": "MONTEZUMA"
                 },
                 "name": "Montezuma",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "083",
                 "geojson_id": 288,
                 "license_plate_codes": {
@@ -7853,7 +8032,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -7901,7 +8081,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -7947,7 +8128,8 @@
                     "fourteen_letter": "GUNNISON"
                 },
                 "name": "Gunnison",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "051",
                 "geojson_id": 272,
                 "license_plate_codes": {
@@ -7993,7 +8175,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -8039,7 +8222,8 @@
                     "fourteen_letter": "RIOBLANCO"
                 },
                 "name": "Rio Blanco",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "103",
                 "geojson_id": 298,
                 "license_plate_codes": {
@@ -8085,7 +8269,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -8131,7 +8316,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -8177,7 +8363,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -8223,7 +8410,8 @@
                     "fourteen_letter": "SAGUACHE"
                 },
                 "name": "Saguache",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "109",
                 "geojson_id": 301,
                 "license_plate_codes": {
@@ -8269,7 +8457,8 @@
                     "fourteen_letter": "RIOGRANDE"
                 },
                 "name": "Rio Grande",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "105",
                 "geojson_id": 299,
                 "license_plate_codes": {
@@ -8315,7 +8504,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -8362,7 +8552,8 @@
                     "fourteen_letter": "MONTROSE"
                 },
                 "name": "Montrose",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "085",
                 "geojson_id": 289,
                 "license_plate_codes": {
@@ -8408,7 +8599,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -8456,7 +8648,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -8503,7 +8696,8 @@
                     "fourteen_letter": "GUNNISON"
                 },
                 "name": "Gunnison",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "051",
                 "geojson_id": 272,
                 "license_plate_codes": {
@@ -8549,7 +8743,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -8596,7 +8791,8 @@
                     "fourteen_letter": "SANMIGUEL"
                 },
                 "name": "San Miguel",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "113",
                 "geojson_id": 303,
                 "license_plate_codes": {
@@ -8642,7 +8838,8 @@
                     "fourteen_letter": "MONTROSE"
                 },
                 "name": "Montrose",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "085",
                 "geojson_id": 289,
                 "license_plate_codes": {
@@ -8688,7 +8885,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -8735,7 +8933,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -8781,7 +8980,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -8802,7 +9002,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -8848,7 +9049,8 @@
                     "fourteen_letter": "SANMIGUEL"
                 },
                 "name": "San Miguel",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "113",
                 "geojson_id": 303,
                 "license_plate_codes": {
@@ -8894,7 +9096,8 @@
                     "fourteen_letter": "MONTROSE"
                 },
                 "name": "Montrose",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "085",
                 "geojson_id": 289,
                 "license_plate_codes": {
@@ -8940,7 +9143,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -8986,7 +9190,8 @@
                     "fourteen_letter": "ROUTT"
                 },
                 "name": "Routt",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "107",
                 "geojson_id": 300,
                 "license_plate_codes": {
@@ -9032,7 +9237,8 @@
                     "fourteen_letter": "MONTROSE"
                 },
                 "name": "Montrose",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "085",
                 "geojson_id": 289,
                 "license_plate_codes": {
@@ -9078,7 +9284,8 @@
                     "fourteen_letter": "CROWLEY"
                 },
                 "name": "Crowley",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "025",
                 "geojson_id": 259,
                 "license_plate_codes": {
@@ -9124,7 +9331,8 @@
                     "fourteen_letter": "SANMIGUEL"
                 },
                 "name": "San Miguel",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "113",
                 "geojson_id": 303,
                 "license_plate_codes": {
@@ -9170,7 +9378,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -9214,7 +9423,8 @@
                     "fourteen_letter": "CROWLEY"
                 },
                 "name": "Crowley",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "025",
                 "geojson_id": 259,
                 "license_plate_codes": {
@@ -9260,7 +9470,8 @@
                     "fourteen_letter": "WASHINGTON"
                 },
                 "name": "Washington",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "121",
                 "geojson_id": 307,
                 "license_plate_codes": {
@@ -9306,7 +9517,8 @@
                     "fourteen_letter": "OURAY"
                 },
                 "name": "Ouray",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "091",
                 "geojson_id": 292,
                 "license_plate_codes": {
@@ -9352,7 +9564,8 @@
                     "fourteen_letter": "SEDGWICK"
                 },
                 "name": "Sedgwick",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "115",
                 "geojson_id": 304,
                 "license_plate_codes": {
@@ -9398,7 +9611,8 @@
                     "fourteen_letter": "ARCHULETA"
                 },
                 "name": "Archuleta",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "007",
                 "geojson_id": 249,
                 "license_plate_codes": {
@@ -9444,7 +9658,8 @@
                     "fourteen_letter": "MESA"
                 },
                 "name": "Mesa",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "077",
                 "geojson_id": 285,
                 "license_plate_codes": {
@@ -9490,7 +9705,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -9538,7 +9754,8 @@
                     "fourteen_letter": "PHILLIPS"
                 },
                 "name": "Phillips",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "095",
                 "geojson_id": 294,
                 "license_plate_codes": {
@@ -9584,7 +9801,8 @@
                     "fourteen_letter": "DELTA"
                 },
                 "name": "Delta",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "029",
                 "geojson_id": 261,
                 "license_plate_codes": {
@@ -9628,7 +9846,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -9674,7 +9893,8 @@
                     "fourteen_letter": "DOUGLAS"
                 },
                 "name": "Douglas",
-                "zone": 1,
+                "co_rx_consortium_zone": 1,
+                "co_dola_region": "Front Range",
                 "api_code": "035",
                 "geojson_id": 264,
                 "license_plate_codes": {
@@ -9720,7 +9940,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -9766,7 +9987,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -9812,7 +10034,8 @@
                     "fourteen_letter": "GUNNISON"
                 },
                 "name": "Gunnison",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "051",
                 "geojson_id": 272,
                 "license_plate_codes": {
@@ -9858,7 +10081,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -9904,7 +10128,8 @@
                     "fourteen_letter": "CHAFFEE"
                 },
                 "name": "Chaffee",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "015",
                 "geojson_id": 254,
                 "license_plate_codes": {
@@ -9950,7 +10175,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -9996,7 +10222,8 @@
                     "fourteen_letter": "PUEBLO"
                 },
                 "name": "Pueblo",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "101",
                 "geojson_id": 297,
                 "license_plate_codes": {
@@ -10042,7 +10269,8 @@
                     "fourteen_letter": "ELPASO"
                 },
                 "name": "El Paso",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "041",
                 "geojson_id": 267,
                 "license_plate_codes": {
@@ -10090,7 +10318,8 @@
                     "fourteen_letter": "RIOBLANCO"
                 },
                 "name": "Rio Blanco",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "103",
                 "geojson_id": 298,
                 "license_plate_codes": {
@@ -10136,7 +10365,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -10182,7 +10412,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -10228,7 +10459,8 @@
                     "fourteen_letter": "DOLORES"
                 },
                 "name": "Dolores",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "033",
                 "geojson_id": 263,
                 "license_plate_codes": {
@@ -10274,7 +10506,8 @@
                     "fourteen_letter": "OURAY"
                 },
                 "name": "Ouray",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "091",
                 "geojson_id": 292,
                 "license_plate_codes": {
@@ -10320,7 +10553,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -10366,7 +10600,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -10412,7 +10647,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -10458,7 +10694,8 @@
                     "fourteen_letter": "CONEJOS"
                 },
                 "name": "Conejos",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "021",
                 "geojson_id": 257,
                 "license_plate_codes": {
@@ -10504,7 +10741,8 @@
                     "fourteen_letter": "PUEBLO"
                 },
                 "name": "Pueblo",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "101",
                 "geojson_id": 297,
                 "license_plate_codes": {
@@ -10550,7 +10788,8 @@
                     "fourteen_letter": "SAGUACHE"
                 },
                 "name": "Saguache",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "109",
                 "geojson_id": 301,
                 "license_plate_codes": {
@@ -10596,7 +10835,8 @@
                     "fourteen_letter": "CHAFFEE"
                 },
                 "name": "Chaffee",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "015",
                 "geojson_id": 254,
                 "license_plate_codes": {
@@ -10642,7 +10882,8 @@
                     "fourteen_letter": "COSTILLA"
                 },
                 "name": "Costilla",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "023",
                 "geojson_id": 258,
                 "license_plate_codes": {
@@ -10688,7 +10929,8 @@
                     "fourteen_letter": "CONEJOS"
                 },
                 "name": "Conejos",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "021",
                 "geojson_id": 257,
                 "license_plate_codes": {
@@ -10734,7 +10976,8 @@
                     "fourteen_letter": "SANMIGUEL"
                 },
                 "name": "San Miguel",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "113",
                 "geojson_id": 303,
                 "license_plate_codes": {
@@ -10780,7 +11023,8 @@
                     "fourteen_letter": "SEDGWICK"
                 },
                 "name": "Sedgwick",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "115",
                 "geojson_id": 304,
                 "license_plate_codes": {
@@ -10826,7 +11070,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -10872,7 +11117,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -10918,7 +11164,8 @@
                     "fourteen_letter": "ARAPAHOE"
                 },
                 "name": "Arapahoe",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "005",
                 "geojson_id": 248,
                 "license_plate_codes": {
@@ -10965,7 +11212,8 @@
                     "fourteen_letter": "KIOWA"
                 },
                 "name": "Kiowa",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "061",
                 "geojson_id": 277,
                 "license_plate_codes": {
@@ -11011,7 +11259,8 @@
                     "fourteen_letter": "GARFIELD"
                 },
                 "name": "Garfield",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "045",
                 "geojson_id": 269,
                 "license_plate_codes": {
@@ -11057,7 +11306,8 @@
                     "fourteen_letter": "CUSTER"
                 },
                 "name": "Custer",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "027",
                 "geojson_id": 260,
                 "license_plate_codes": {
@@ -11103,7 +11353,8 @@
                     "fourteen_letter": "CLEARCREEK"
                 },
                 "name": "Clear Creek",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "019",
                 "geojson_id": 256,
                 "license_plate_codes": {
@@ -11149,7 +11400,8 @@
                     "fourteen_letter": "SUMMIT"
                 },
                 "name": "Summit",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "117",
                 "geojson_id": 305,
                 "license_plate_codes": {
@@ -11196,7 +11448,8 @@
                     "fourteen_letter": "SANJUAN"
                 },
                 "name": "San Juan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "111",
                 "geojson_id": 302,
                 "license_plate_codes": {
@@ -11242,7 +11495,8 @@
                     "fourteen_letter": "ELBERT"
                 },
                 "name": "Elbert",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "039",
                 "geojson_id": 266,
                 "license_plate_codes": {
@@ -11288,7 +11542,8 @@
                     "fourteen_letter": "PITKIN"
                 },
                 "name": "Pitkin",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "097",
                 "geojson_id": 295,
                 "license_plate_codes": {
@@ -11334,7 +11589,8 @@
                     "fourteen_letter": "RIOGRANDE"
                 },
                 "name": "Rio Grande",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Sun Luis Valley",
                 "api_code": "105",
                 "geojson_id": 299,
                 "license_plate_codes": {
@@ -11380,7 +11636,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -11426,7 +11683,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -11472,7 +11730,8 @@
                     "fourteen_letter": "ROUTT"
                 },
                 "name": "Routt",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "107",
                 "geojson_id": 300,
                 "license_plate_codes": {
@@ -11518,7 +11777,8 @@
                     "fourteen_letter": "LOGAN"
                 },
                 "name": "Logan",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "075",
                 "geojson_id": 284,
                 "license_plate_codes": {
@@ -11564,7 +11824,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -11610,7 +11871,8 @@
                     "fourteen_letter": "CROWLEY"
                 },
                 "name": "Crowley",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "025",
                 "geojson_id": 259,
                 "license_plate_codes": {
@@ -11656,7 +11918,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -11677,7 +11940,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -11724,7 +11988,8 @@
                     "fourteen_letter": "OTERO"
                 },
                 "name": "Otero",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "089",
                 "geojson_id": 291,
                 "license_plate_codes": {
@@ -11770,7 +12035,8 @@
                     "fourteen_letter": "SANMIGUEL"
                 },
                 "name": "San Miguel",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "113",
                 "geojson_id": 303,
                 "license_plate_codes": {
@@ -11816,7 +12082,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -11837,7 +12104,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -11883,7 +12151,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -11904,7 +12173,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -11950,7 +12220,8 @@
                     "fourteen_letter": "LASANIMAS"
                 },
                 "name": "Las Animas",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "071",
                 "geojson_id": 282,
                 "license_plate_codes": {
@@ -11996,7 +12267,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -12042,7 +12314,8 @@
                     "fourteen_letter": "EAGLE"
                 },
                 "name": "Eagle",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "037",
                 "geojson_id": 265,
                 "license_plate_codes": {
@@ -12088,7 +12361,8 @@
                     "fourteen_letter": "TELLER"
                 },
                 "name": "Teller",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "119",
                 "geojson_id": 306,
                 "license_plate_codes": {
@@ -12134,7 +12408,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -12180,7 +12455,8 @@
                     "fourteen_letter": "KITCARSON"
                 },
                 "name": "Kit Carson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "063",
                 "geojson_id": 278,
                 "license_plate_codes": {
@@ -12226,7 +12502,8 @@
                     "fourteen_letter": "JACKSON"
                 },
                 "name": "Jackson",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "057",
                 "geojson_id": 275,
                 "license_plate_codes": {
@@ -12272,7 +12549,8 @@
                     "fourteen_letter": "HUERFANO"
                 },
                 "name": "Huerfano",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "055",
                 "geojson_id": 274,
                 "license_plate_codes": {
@@ -12318,7 +12596,8 @@
                     "fourteen_letter": "BACA"
                 },
                 "name": "Baca",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "009",
                 "geojson_id": 250,
                 "license_plate_codes": {
@@ -12364,7 +12643,8 @@
                     "fourteen_letter": "BOULDER"
                 },
                 "name": "Boulder",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "013",
                 "geojson_id": 252,
                 "license_plate_codes": {
@@ -12411,7 +12691,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -12458,7 +12739,8 @@
                     "fourteen_letter": "CUSTER"
                 },
                 "name": "Custer",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Central Mountains",
                 "api_code": "027",
                 "geojson_id": 260,
                 "license_plate_codes": {
@@ -12504,7 +12786,8 @@
                     "fourteen_letter": "ADAMS"
                 },
                 "name": "Adams",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "001",
                 "geojson_id": 246,
                 "license_plate_codes": {
@@ -12525,7 +12808,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -12572,7 +12856,8 @@
                     "fourteen_letter": "JEFFERSON"
                 },
                 "name": "Jefferson",
-                "zone": 0,
+                "co_rx_consortium_zone": 0,
+                "co_dola_region": "Front Range",
                 "api_code": "059",
                 "geojson_id": 276,
                 "license_plate_codes": {
@@ -12619,7 +12904,8 @@
                     "fourteen_letter": "MORGAN"
                 },
                 "name": "Morgan",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "087",
                 "geojson_id": 290,
                 "license_plate_codes": {
@@ -12665,7 +12951,8 @@
                     "fourteen_letter": "PROWERS"
                 },
                 "name": "Prowers",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "099",
                 "geojson_id": 296,
                 "license_plate_codes": {
@@ -12711,7 +12998,8 @@
                     "fourteen_letter": "FREMONT"
                 },
                 "name": "Fremont",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Central Mountains",
                 "api_code": "043",
                 "geojson_id": 268,
                 "license_plate_codes": {
@@ -12757,7 +13045,8 @@
                     "fourteen_letter": "WELD"
                 },
                 "name": "Weld",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "123",
                 "geojson_id": 308,
                 "license_plate_codes": {
@@ -12777,7 +13066,8 @@
                     "fourteen_letter": "LARIMER"
                 },
                 "name": "Larimer",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "069",
                 "geojson_id": 281,
                 "license_plate_codes": {
@@ -12824,7 +13114,8 @@
                     "fourteen_letter": "GRAND"
                 },
                 "name": "Grand",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Western Slope",
                 "api_code": "049",
                 "geojson_id": 271,
                 "license_plate_codes": {
@@ -12870,7 +13161,8 @@
                     "fourteen_letter": "TELLER"
                 },
                 "name": "Teller",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Front Range",
                 "api_code": "119",
                 "geojson_id": 306,
                 "license_plate_codes": {
@@ -12916,7 +13208,8 @@
                     "fourteen_letter": "YUMA"
                 },
                 "name": "Yuma",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "125",
                 "geojson_id": 309,
                 "license_plate_codes": {
@@ -12962,7 +13255,8 @@
                     "fourteen_letter": "ROUTT"
                 },
                 "name": "Routt",
-                "zone": 2,
+                "co_rx_consortium_zone": 2,
+                "co_dola_region": "Western Slope",
                 "api_code": "107",
                 "geojson_id": 300,
                 "license_plate_codes": {
@@ -13008,7 +13302,8 @@
                     "fourteen_letter": "YUMA"
                 },
                 "name": "Yuma",
-                "zone": 3,
+                "co_rx_consortium_zone": 3,
+                "co_dola_region": "Eastern Plains",
                 "api_code": "125",
                 "geojson_id": 309,
                 "license_plate_codes": {
