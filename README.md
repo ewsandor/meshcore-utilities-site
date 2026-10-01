@@ -1,19 +1,19 @@
-# Colorado Mesh MeshCore Utilities
+# Chicagoland Mesh MeshCore Utilities
 
 A web application for generating MeshCore repeater configurations and sending canned serial USB commands to connected devices.
 
-Currently hosted at: https://tools.meshcore.coloradomesh.org
+Regionalized for Chicagoland Mesh from the original [Colorado Mesh MeshCore Utilities](https://github.com/Colorado-Mesh) project.
 
 ## Running with Docker
 
 ### Build the Docker image:
 ```bash
-docker build -t colorado-mesh-utilities .
+docker build -t chicagoland-mesh-utilities .
 ```
 
 ### Run the container:
 ```bash
-docker run -p 50000:50000 colorado-mesh-utilities
+docker run -p 50000:50000 chicagoland-mesh-utilities
 ```
 
 ### Or use Docker Compose:

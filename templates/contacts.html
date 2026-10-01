@@ -10,7 +10,7 @@
 <div class="container">
     <h1>📥 Download Contacts</h1>
     <p class="subtitle">
-        Get a set of Colorado Mesh MeshCore contacts
+        Get a set of Chicagoland Mesh MeshCore contacts
     </p>
 
     <form id="contacts-form" method="post" action="{{ url_for('contacts.download_contacts') }}" novalidate>
@@ -72,7 +72,7 @@
 </div>
 
 <footer class="github-footer">
-    Built for Colorado Mesh • <a href="https://github.com/Colorado-Mesh" target="_blank" rel="noopener noreferrer">github.com/Colorado-Mesh</a>
+    Built for Chicagoland Mesh • Based on <a href="https://github.com/Colorado-Mesh" target="_blank" rel="noopener noreferrer">Colorado Mesh</a>
 </footer>
 </body>
 </html>
@@ -93,7 +93,7 @@
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement('a');
                 a.href = url;
-                a.download = 'colorado_meshcore_contacts.json';
+                a.download = 'chicagoland_meshcore_contacts.json';
 
                 // Trigger download
                 document.body.appendChild(a);

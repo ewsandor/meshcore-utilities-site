@@ -131,5 +131,5 @@ def generate_repeater_details():
         "name": name,
         "public_key_id": suggested_public_key_id,
         "settings_json": settings_json,
-        "settings_json_file_name": f"coloradomesh_meshcore_repeater_config_{name}",
+        "settings_json_file_name": f"chicagolandmesh_meshcore_repeater_config_{name}",
     }

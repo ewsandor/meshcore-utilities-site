@@ -72,8 +72,8 @@ def index():
 @contacts.route('/download', methods=[FLASK_POST])
 def download_contacts():
     """
-    Send a JSON file with contacts in Colorado.
-    return: A JSON object with a list of contacts in Colorado.
+    Send a JSON file with contacts in Chicagoland.
+    return: A JSON object with a list of contacts in Chicagoland.
     """
     # Check if an "id" query parameter is provided
     args = request.get_json()

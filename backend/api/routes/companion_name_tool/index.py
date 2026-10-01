@@ -78,5 +78,5 @@ def generate_companion_details():
         "name": name,
         "public_key_id": suggested_public_key_id,
         "settings_json": settings_json,
-        "settings_json_file_name": f"coloradomesh_meshcore_companion_config_{name}",
+        "settings_json_file_name": f"chicagolandmesh_meshcore_companion_config_{name}",
     }

@@ -11,12 +11,12 @@
 <div class="container">
     <h1>📡 MeshCore Repeater Configuration Generator</h1>
     <p class="subtitle">
-        Configure your Colorado Mesh MeshCore repeater details
+        Configure your Chicagoland Mesh MeshCore repeater details
         <br>
         <small style="font-size: 13px; opacity: 0.8;">
             This tool follows <a
                 href="https://github.com/Colorado-Mesh/organization/tree/master/Standards/MeshCore/naming"
-                style="color: #667eea; text-decoration: none;">Colorado Mesh MeshCore Naming Convention</a>.
+                style="color: #667eea; text-decoration: none;">original Colorado Mesh MeshCore Naming Convention</a>.
         </small>
     </p>
 
@@ -60,7 +60,7 @@
                             Enter a recognizable landmark name abbreviation (max <span id="landmark-length">5</span> characters)
                             <br/>
                             <b>Need inspiration or clarification?</b> See <a
-                                href="https://analyzer.meshcore.coloradomesh.org/#/nodes?tab=repeater">existing repeaters</a> for examples.
+                                href="https://chicagolandmesh.org/corescope/nodes/">existing repeaters</a> for examples.
                         </span>
                     </div>
                 </div>
@@ -69,21 +69,21 @@
                     <div class="form-option">
                         <input type="radio" id="location-option-mountain" name="location_strategy" value="mountain"
                                required>
-                        <label for="location-option-mountain">Nearest Mountain</label>
+                        <label for="location-option-mountain">Nearest Mt Trashmore</label>
                     </div>
                     <span class="help-text">
-                        Use the nearest mountain as the location identifier.
+                        Use the nearest Mt Trashmore as the location identifier.
                     </span>
 
                     <div id="location-mountain-strategy" class="form-option-input" style="display: none;">
-                        <label for="mountain-select">Select Nearest Mountain: <span class="required">*</span></label>
+                        <label for="mountain-select">Select Nearest Mt Trashmore: <span class="required">*</span></label>
                         <select id="mountain-select" name="mountain">
                             {% for mountain in mountains %}
                             <option value="{{ mountain.code }}">{{ mountain.name }}</option>
                             {% endfor %}
                         </select>
                         <span class="help-text">
-                        Choose the nearest mountain to this repeater.
+                        Choose the nearest Mt Trashmore to this repeater.
                     </span>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
                     <br/>
                     <p>
                         <strong>Alternatively</strong>, use the <a
-                            href="../serial_usb_tool">Colorado Mesh MeshCore
+                            href="../serial_usb_tool">Chicagoland Mesh MeshCore
                         Serial USB Command Console </a> to apply the configuration file to your repeater.
 
                     </p>
@@ -207,7 +207,7 @@
 </div>
 
 <footer class="github-footer">
-    Built for Colorado Mesh • <a href="https://github.com/Colorado-Mesh" target="_blank" rel="noopener noreferrer">github.com/Colorado-Mesh</a>
+    Built for Chicagoland Mesh • Based on <a href="https://github.com/Colorado-Mesh" target="_blank" rel="noopener noreferrer">Colorado Mesh</a>
 </footer>
 </body>
 </html>

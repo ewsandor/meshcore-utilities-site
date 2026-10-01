@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     const url = URL.createObjectURL(blob);
                     const a = document.createElement('a');
                     a.href = url;
-                    a.download = 'colorado_meshcore_contacts.json';
+                    a.download = 'chicagoland_meshcore_contacts.json';
 
                     // Trigger download
                     document.body.appendChild(a);
