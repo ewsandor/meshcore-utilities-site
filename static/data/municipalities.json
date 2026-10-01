@@ -4,13 +4,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -39,17 +39,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7719,
-            "longitude": -88.4757,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ARR",
-                "five_letter": "ARR",
-                "seven_letter": "ARR",
-                "fourteen_letter": "ARR"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Aurora Municipal Airport",
-            "iata_code": "ARR",
-            "geojson_id": 7
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -77,17 +77,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.5178,
-            "longitude": -88.1756,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "JOT",
-                "five_letter": "JOT",
-                "seven_letter": "JOT",
-                "fourteen_letter": "JOT"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Joliet Regional Airport",
-            "iata_code": "JOT",
-            "geojson_id": 8
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -115,17 +115,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -153,17 +153,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -191,17 +191,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.4222,
-            "longitude": -87.8679,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "UGN",
-                "five_letter": "UGN",
-                "seven_letter": "UGN",
-                "fourteen_letter": "UGN"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Waukegan National Airport",
-            "iata_code": "UGN",
-            "geojson_id": 6
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -229,17 +229,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -270,13 +270,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -305,17 +305,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.1142,
-            "longitude": -87.9015,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "PWK",
-                "five_letter": "PWK",
-                "seven_letter": "PWK",
-                "fourteen_letter": "PWK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Executive Airport",
-            "iata_code": "PWK",
-            "geojson_id": 3
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -346,13 +346,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -381,17 +381,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.6073,
-            "longitude": -88.0962,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "LOT",
-                "five_letter": "LOT",
-                "seven_letter": "LOT",
-                "fourteen_letter": "LOT"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lewis University Airport",
-            "iata_code": "LOT",
-            "geojson_id": 9
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -419,17 +419,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.1142,
-            "longitude": -87.9015,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "PWK",
-                "five_letter": "PWK",
-                "seven_letter": "PWK",
-                "fourteen_letter": "PWK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Executive Airport",
-            "iata_code": "PWK",
-            "geojson_id": 3
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -457,17 +457,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.1142,
-            "longitude": -87.9015,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "PWK",
-                "five_letter": "PWK",
-                "seven_letter": "PWK",
-                "fourteen_letter": "PWK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Executive Airport",
-            "iata_code": "PWK",
-            "geojson_id": 3
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -498,13 +498,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -533,17 +533,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -571,17 +571,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -609,17 +609,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -647,17 +647,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -688,13 +688,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -723,17 +723,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -761,17 +761,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -802,13 +802,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -837,17 +837,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -875,17 +875,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -913,17 +913,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.1142,
-            "longitude": -87.9015,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "PWK",
-                "five_letter": "PWK",
-                "seven_letter": "PWK",
-                "fourteen_letter": "PWK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Executive Airport",
-            "iata_code": "PWK",
-            "geojson_id": 3
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -951,17 +951,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.5178,
-            "longitude": -88.1756,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "JOT",
-                "five_letter": "JOT",
-                "seven_letter": "JOT",
-                "fourteen_letter": "JOT"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Joliet Regional Airport",
-            "iata_code": "JOT",
-            "geojson_id": 8
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -989,17 +989,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.6073,
-            "longitude": -88.0962,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "LOT",
-                "five_letter": "LOT",
-                "seven_letter": "LOT",
-                "fourteen_letter": "LOT"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lewis University Airport",
-            "iata_code": "LOT",
-            "geojson_id": 9
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1030,13 +1030,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -1065,17 +1065,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.1142,
-            "longitude": -87.9015,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "PWK",
-                "five_letter": "PWK",
-                "seven_letter": "PWK",
-                "fourteen_letter": "PWK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Executive Airport",
-            "iata_code": "PWK",
-            "geojson_id": 3
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1103,17 +1103,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.2068,
-            "longitude": -88.323,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "3CK",
-                "five_letter": "3CK",
-                "seven_letter": "3CK",
-                "fourteen_letter": "3CK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lake in the Hills Airport",
-            "iata_code": "3CK",
-            "geojson_id": 10
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1144,13 +1144,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -1182,13 +1182,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -1220,13 +1220,13 @@
             "latitude": 41.9742,
             "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ORD",
-                "five_letter": "ORD",
-                "seven_letter": "ORD",
-                "fourteen_letter": "ORD"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
         "counties": [
@@ -1255,17 +1255,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1293,17 +1293,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1331,17 +1331,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.4222,
-            "longitude": -87.8679,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "UGN",
-                "five_letter": "UGN",
-                "seven_letter": "UGN",
-                "fourteen_letter": "UGN"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Waukegan National Airport",
-            "iata_code": "UGN",
-            "geojson_id": 6
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1369,17 +1369,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.2068,
-            "longitude": -88.323,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "3CK",
-                "five_letter": "3CK",
-                "seven_letter": "3CK",
-                "fourteen_letter": "3CK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lake in the Hills Airport",
-            "iata_code": "3CK",
-            "geojson_id": 10
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1407,17 +1407,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1445,17 +1445,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1483,17 +1483,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1521,17 +1521,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "DPA",
-                "five_letter": "DPA",
-                "seven_letter": "DPA",
-                "fourteen_letter": "DPA"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1559,17 +1559,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7719,
-            "longitude": -88.4757,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ARR",
-                "five_letter": "ARR",
-                "seven_letter": "ARR",
-                "fourteen_letter": "ARR"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Aurora Municipal Airport",
-            "iata_code": "ARR",
-            "geojson_id": 7
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1597,17 +1597,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7719,
-            "longitude": -88.4757,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "ARR",
-                "five_letter": "ARR",
-                "seven_letter": "ARR",
-                "fourteen_letter": "ARR"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Aurora Municipal Airport",
-            "iata_code": "ARR",
-            "geojson_id": 7
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1635,17 +1635,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.4222,
-            "longitude": -87.8679,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "UGN",
-                "five_letter": "UGN",
-                "seven_letter": "UGN",
-                "fourteen_letter": "UGN"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Waukegan National Airport",
-            "iata_code": "UGN",
-            "geojson_id": 6
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1673,17 +1673,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.4222,
-            "longitude": -87.8679,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "UGN",
-                "five_letter": "UGN",
-                "seven_letter": "UGN",
-                "fourteen_letter": "UGN"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Waukegan National Airport",
-            "iata_code": "UGN",
-            "geojson_id": 6
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1711,17 +1711,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.4222,
-            "longitude": -87.8679,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "UGN",
-                "five_letter": "UGN",
-                "seven_letter": "UGN",
-                "fourteen_letter": "UGN"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Waukegan National Airport",
-            "iata_code": "UGN",
-            "geojson_id": 6
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1749,17 +1749,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.2068,
-            "longitude": -88.323,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "3CK",
-                "five_letter": "3CK",
-                "seven_letter": "3CK",
-                "fourteen_letter": "3CK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lake in the Hills Airport",
-            "iata_code": "3CK",
-            "geojson_id": 10
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1787,17 +1787,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 42.2068,
-            "longitude": -88.323,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "3CK",
-                "five_letter": "3CK",
-                "seven_letter": "3CK",
-                "fourteen_letter": "3CK"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Lake in the Hills Airport",
-            "iata_code": "3CK",
-            "geojson_id": 10
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1825,17 +1825,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.7868,
-            "longitude": -87.7522,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "MDW",
-                "five_letter": "MDW",
-                "seven_letter": "MDW",
-                "fourteen_letter": "MDW"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Chicago Midway International Airport",
-            "iata_code": "MDW",
-            "geojson_id": 1
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1863,17 +1863,17 @@
     },
     {
         "nearest_airport": {
-            "latitude": 41.6163,
-            "longitude": -87.4128,
+            "latitude": 41.9742,
+            "longitude": -87.9073,
             "abbreviations": {
-                "three_letter": "GYY",
-                "five_letter": "GYY",
-                "seven_letter": "GYY",
-                "fourteen_letter": "GYY"
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
             },
-            "name": "Gary/Chicago International Airport",
-            "iata_code": "GYY",
-            "geojson_id": 5
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "counties": [
             {
@@ -1898,5 +1898,555 @@
             "fourteen_letter": "CALUMETCITYXXX"
         },
         "name": "Calumet City"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "abbreviations": {
+                    "three_letter": "DUP",
+                    "five_letter": "DUPAG",
+                    "seven_letter": "DUPAGEX",
+                    "fourteen_letter": "DUPAGEXXXXXXXX"
+                },
+                "name": "DuPage",
+                "state": "IL",
+                "api_code": "022",
+                "geojson_id": 22
+            }
+        ],
+        "latitude": 41.7464,
+        "longitude": -88.0397,
+        "abbreviations": {
+            "three_letter": "WOO",
+            "five_letter": "WOODR",
+            "seven_letter": "WOODRID",
+            "fourteen_letter": "WOODRIDGEXXXXXX"
+        },
+        "name": "Woodridge"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "DuPage",
+                "state": "IL",
+                "api_code": "022",
+                "geojson_id": 22
+            }
+        ],
+        "latitude": 41.737,
+        "longitude": -88.07,
+        "abbreviations": {
+            "three_letter": "DAR",
+            "five_letter": "DARIEN",
+            "seven_letter": "DARIENX",
+            "fourteen_letter": "DARIENXXXXXXXX"
+        },
+        "name": "Darien"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "DuPage",
+                "state": "IL",
+                "api_code": "022",
+                "geojson_id": 22
+            }
+        ],
+        "latitude": 41.8011,
+        "longitude": -88.074,
+        "abbreviations": {
+            "three_letter": "WES",
+            "five_letter": "WESTM",
+            "seven_letter": "WESTMON",
+            "fourteen_letter": "WESTMONTXXXXXX"
+        },
+        "name": "Westmont"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "DuPage",
+                "state": "IL",
+                "api_code": "022",
+                "geojson_id": 22
+            }
+        ],
+        "latitude": 41.7889,
+        "longitude": -87.9756,
+        "abbreviations": {
+            "three_letter": "HIN",
+            "five_letter": "HINSD",
+            "seven_letter": "HINSDA",
+            "fourteen_letter": "HINSDALEXXXXXX"
+        },
+        "name": "Hinsdale"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 41.805,
+        "longitude": -87.8692,
+        "abbreviations": {
+            "three_letter": "LAG",
+            "five_letter": "LAGRAN",
+            "seven_letter": "LAGRANG",
+            "fourteen_letter": "LAGRANGEXXXXXX"
+        },
+        "name": "La Grange"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 41.8334,
+        "longitude": -87.8517,
+        "abbreviations": {
+            "three_letter": "BRK",
+            "five_letter": "BROOK",
+            "seven_letter": "BROOKFI",
+            "fourteen_letter": "BROOKFIELDXXXX"
+        },
+        "name": "Brookfield"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 41.9161,
+        "longitude": -87.9018,
+        "abbreviations": {
+            "three_letter": "ELM",
+            "five_letter": "ELMWO",
+            "seven_letter": "ELMWOO",
+            "fourteen_letter": "ELMWOODPARKXXX"
+        },
+        "name": "Elmwood Park"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 41.9353,
+        "longitude": -87.8656,
+        "abbreviations": {
+            "three_letter": "FRA",
+            "five_letter": "FRANK",
+            "seven_letter": "FRANKLI",
+            "fourteen_letter": "FRANKLINPARKXX"
+        },
+        "name": "Franklin Park"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 41.9834,
+        "longitude": -87.8567,
+        "abbreviations": {
+            "three_letter": "PAR",
+            "five_letter": "PARKR",
+            "seven_letter": "PARKRID",
+            "fourteen_letter": "PARKRIDGEXXXXX"
+        },
+        "name": "Park Ridge"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 42.1275,
+        "longitude": -87.8289,
+        "abbreviations": {
+            "three_letter": "NOR",
+            "five_letter": "NORTHB",
+            "seven_letter": "NORTHBR",
+            "fourteen_letter": "NORTHBROOKXX"
+        },
+        "name": "Northbrook"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Cook",
+                "state": "IL",
+                "api_code": "016",
+                "geojson_id": 16
+            }
+        ],
+        "latitude": 42.0723,
+        "longitude": -87.7228,
+        "abbreviations": {
+            "three_letter": "WIL",
+            "five_letter": "WILME",
+            "seven_letter": "WILMETT",
+            "fourteen_letter": "WILMETTEXXXXX"
+        },
+        "name": "Wilmette"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Lake",
+                "state": "IL",
+                "api_code": "050",
+                "geojson_id": 50
+            }
+        ],
+        "latitude": 42.1817,
+        "longitude": -87.8003,
+        "abbreviations": {
+            "three_letter": "HIG",
+            "five_letter": "HIGHL",
+            "seven_letter": "HIGHLAN",
+            "fourteen_letter": "HIGHLANDPARKX"
+        },
+        "name": "Highland Park"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Lake",
+                "state": "IL",
+                "api_code": "050",
+                "geojson_id": 50
+            }
+        ],
+        "latitude": 42.2831,
+        "longitude": -87.8401,
+        "abbreviations": {
+            "three_letter": "LAK",
+            "five_letter": "LAKEF",
+            "seven_letter": "LAKEFOR",
+            "fourteen_letter": "LAKEFORESTXXX"
+        },
+        "name": "Lake Forest"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Lake",
+                "state": "IL",
+                "api_code": "050",
+                "geojson_id": 50
+            }
+        ],
+        "latitude": 42.2831,
+        "longitude": -87.9531,
+        "abbreviations": {
+            "three_letter": "LIB",
+            "five_letter": "LIBER",
+            "seven_letter": "LIBERTY",
+            "fourteen_letter": "LIBERTYVILLEXX"
+        },
+        "name": "Libertyville"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Lake",
+                "state": "IL",
+                "api_code": "050",
+                "geojson_id": 50
+            }
+        ],
+        "latitude": 42.2195,
+        "longitude": -87.9795,
+        "abbreviations": {
+            "three_letter": "VER",
+            "five_letter": "VERNO",
+            "seven_letter": "VERNONH",
+            "fourteen_letter": "VERNONHILLSXX"
+        },
+        "name": "Vernon Hills"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "McHenry",
+                "state": "IL",
+                "api_code": "064",
+                "geojson_id": 64
+            }
+        ],
+        "latitude": 42.1681,
+        "longitude": -88.4281,
+        "abbreviations": {
+            "three_letter": "HUN",
+            "five_letter": "HUNTL",
+            "seven_letter": "HUNTLEY",
+            "fourteen_letter": "HUNTLEYXXXXXX"
+        },
+        "name": "Huntley"
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "counties": [
+            {
+                "name": "Kane",
+                "state": "IL",
+                "api_code": "046",
+                "geojson_id": 46
+            }
+        ],
+        "latitude": 42.0886,
+        "longitude": -88.3087,
+        "abbreviations": {
+            "three_letter": "SOU",
+            "five_letter": "SOUTHE",
+            "seven_letter": "SOUTHEL",
+            "fourteen_letter": "SOUTHELGINUX"
+        },
+        "name": "South Elgin"
     }
 ]

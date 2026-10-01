@@ -1,7 +1,7 @@
 import json
+import json
 from typing import Optional
 
-from coloradomesh.meshcore.models.general import Regions
 from coloradomesh.meshcore.services.contacts import ContactsOrder, ContactsStatus, ContactsType, prepare_contacts
 from flask import (
     Blueprint,
@@ -15,6 +15,9 @@ from backend.constants import (
 )
 
 contacts = Blueprint("contacts", __name__, url_prefix="/contacts")
+
+with open('static/data/airports.json', 'r') as f:
+    regional_airports = json.load(f)
 
 @contacts.route("/", methods=[FLASK_GET], strict_slashes=False)
 def index():
@@ -55,9 +58,10 @@ def index():
          'description': 'All regions'}
     ]
     region_filter.extend([
-        {'code': region.value.code, "human_readable": f"{region.value.code.upper()} - {region.value.name}",
-         'description': f'Only nodes near {region.value.name}'}
-        for region in Regions
+        {'code': airport['iata_code'].lower(),
+         "human_readable": f"{airport['iata_code']} - {airport['name']}",
+         'description': f"Only nodes in the {airport['name']} region"}
+        for airport in regional_airports
     ])
     
     return render_template('contacts.html',

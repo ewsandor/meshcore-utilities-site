@@ -1,6 +1,6 @@
+import json
 from typing import Optional
 
-from coloradomesh.colorado import Airports, Municipalities, UnincorporatedAreas, Mountains
 from coloradomesh.meshcore.models.general import RepeaterType, RepeaterSettings, RepeaterRegionSettings
 from flask import (
     Blueprint,
@@ -17,38 +17,43 @@ from backend.constants import (
 
 repeater_name_tool = Blueprint("repeater_name_tool", __name__, url_prefix="/repeater_name_tool")
 
+with open('static/data/airports.json', 'r') as f:
+    airports = json.load(f)
+with open('static/data/municipalities.json', 'r') as f:
+    municipalities = json.load(f)
+with open('static/data/mountains.json', 'r') as f:
+    mountains = json.load(f)
+
 # Cache all region codes
-region_codes = sorted([airport.iata_code.lower() for airport in Airports])
+region_codes = sorted([airport['iata_code'].lower() for airport in airports])
 
 # Cache all city options alphabetically by name, with blank option at the top
 city_five_char_limit = [
     {"name": "---", "code": "", "region": ""}
 ]
-# We'll call them "cities" in the UI for simplicity, but they can be municipalities or unincorporated areas
-cities = [municipality for municipality in Municipalities] + [area for area in UnincorporatedAreas]
-for city in sorted(cities, key=lambda x: x.canonical_name):
+# We'll call them "cities" in the UI for simplicity.
+cities = municipalities
+for city in sorted(cities, key=lambda x: x['name']):
     city_five_char_limit.append({
-        "name": city.canonical_name,
-        # "code": city.abbreviations.five_letter,
-        "region": city.nearest_airport.iata_code
+        "name": city['name'],
+        "region": city['nearest_airport']['iata_code']
     })
 city_abbreviation_region_code_map = {
-    city.canonical_name: city.nearest_airport.iata_code for city in cities
+    city['name']: city['nearest_airport']['iata_code'] for city in cities
 }
 
 # Cache all mountain options alphabetically by name, with blank option at the top
 mountain_seven_char_limit = [
     {"name": "---", "code": "", "region": ""}
 ]
-mountains = Mountains
-for mountain in sorted(mountains, key=lambda x: x.canonical_name):
+for mountain in sorted(mountains, key=lambda x: x['name']):
     mountain_seven_char_limit.append({
-        "name": mountain.canonical_name,
-        "code": mountain.abbreviations.seven_letter,
-        "region": mountain.nearest_airport.iata_code
+        "name": mountain['name'],
+        "code": mountain['abbreviations']['seven_letter'],
+        "region": mountain['nearest_airport']['iata_code']
     })
 mountain_abbreviation_region_code_map = {
-    mountain.abbreviations.seven_letter: mountain.nearest_airport.iata_code for mountain in mountains
+    mountain['abbreviations']['seven_letter']: mountain['nearest_airport']['iata_code'] for mountain in mountains
 }
 
 

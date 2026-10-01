@@ -1,19 +1,17 @@
+import json
 from typing import Optional, Any
 
-from coloradomesh.colorado import Municipalities, UnincorporatedAreas
 from coloradomesh.emojis import EmojiTools
 from coloradomesh.meshcore.models.general import RepeaterType, CompanionType
 from pydantic import BaseModel, model_validator, Field, field_validator, ValidationInfo
 
 
-def get_city_from_canonical_name(name: str) -> Optional[Municipalities | UnincorporatedAreas]:
-    try:
-        return Municipalities.from_canonical_name(name=name)
-    except:
-        try:
-            return UnincorporatedAreas.from_canonical_name(name=name)
-        except:
-            return None
+with open('static/data/municipalities.json', 'r') as f:
+    municipalities = json.load(f)
+
+
+def get_city_from_canonical_name(name: str) -> Optional[dict]:
+    return next((city for city in municipalities if city['name'] == name), None)
 
 
 class UserRepeaterInformation(BaseModel):
@@ -47,7 +45,7 @@ class UserRepeaterInformation(BaseModel):
         if not city:
             return None
 
-        return city.abbreviations.five_letter.upper()
+        return city['abbreviations']['five_letter'].upper()
 
     def generate_name(self, region_code: str, public_key_id: str) -> str:
         from coloradomesh.meshcore.models.general import RepeaterName

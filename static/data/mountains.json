@@ -1,62 +1,102 @@
 [
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
-            "abbreviations": {"three_letter": "DPA", "five_letter": "DPA", "seven_letter": "DPA", "fourteen_letter": "DPA"},
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
         "latitude": 41.8385,
-        "longitude": -88.1850,
-        "abbreviations": {"three_letter": "MTH", "five_letter": "MTHOY", "seven_letter": "MTHOY", "fourteen_letter": "MOUNTHOY"},
-        "name": "Mount Hoy",
-        "height": 80.0
-    },
-    {
-        "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
-            "abbreviations": {"three_letter": "DPA", "five_letter": "DPA", "seven_letter": "DPA", "fourteen_letter": "DPA"},
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+        "longitude": -88.185,
+        "abbreviations": {
+            "three_letter": "MTH",
+            "five_letter": "MTHOY",
+            "seven_letter": "MTHOY",
+            "fourteen_letter": "MOUNTHOY"
         },
-        "latitude": 41.7386,
-        "longitude": -88.0740,
-        "abbreviations": {"three_letter": "GRE", "five_letter": "GREEN", "seven_letter": "GREENEV", "fourteen_letter": "GREENEVALLEY"},
-        "name": "Greene Valley Forest Preserve",
-        "height": 190.0
+        "name": "Mount Hoy",
+        "height": 80
     },
     {
         "nearest_airport": {
             "latitude": 41.9742,
             "longitude": -87.9073,
-            "abbreviations": {"three_letter": "ORD", "five_letter": "ORD", "seven_letter": "ORD", "fourteen_letter": "ORD"},
-            "name": "O'Hare International Airport",
-            "iata_code": "ORD",
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
             "geojson_id": 0
         },
-        "latitude": 41.9650,
-        "longitude": -88.1300,
-        "abbreviations": {"three_letter": "MAL", "five_letter": "MALLA", "seven_letter": "MALLARD", "fourteen_letter": "MALLARDLAKE"},
-        "name": "Mallard Lake Forest Preserve",
-        "height": 100.0
+        "latitude": 41.7386,
+        "longitude": -88.074,
+        "abbreviations": {
+            "three_letter": "GRE",
+            "five_letter": "GREEN",
+            "seven_letter": "GREENEV",
+            "fourteen_letter": "GREENEVALLEY"
+        },
+        "name": "Greene Valley Forest Preserve",
+        "height": 190
     },
     {
         "nearest_airport": {
-            "latitude": 41.9078,
-            "longitude": -88.2486,
-            "abbreviations": {"three_letter": "DPA", "five_letter": "DPA", "seven_letter": "DPA", "fourteen_letter": "DPA"},
-            "name": "DuPage Airport",
-            "iata_code": "DPA",
-            "geojson_id": 2
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
         },
-        "latitude": 41.8750,
-        "longitude": -88.3500,
-        "abbreviations": {"three_letter": "SET", "five_letter": "SETTL", "seven_letter": "SETTLER", "fourteen_letter": "SETTLERSHILL"},
+        "latitude": 41.965,
+        "longitude": -88.13,
+        "abbreviations": {
+            "three_letter": "MAL",
+            "five_letter": "MALLA",
+            "seven_letter": "MALLARD",
+            "fourteen_letter": "MALLARDLAKE"
+        },
+        "name": "Mallard Lake Forest Preserve",
+        "height": 100
+    },
+    {
+        "nearest_airport": {
+            "latitude": 41.9742,
+            "longitude": -87.9073,
+            "abbreviations": {
+                "three_letter": "CHG",
+                "five_letter": "CHGO",
+                "seven_letter": "CHGO",
+                "fourteen_letter": "CHGO"
+            },
+            "name": "Chicagoland, US",
+            "iata_code": "CHGO",
+            "geojson_id": 0
+        },
+        "latitude": 41.875,
+        "longitude": -88.35,
+        "abbreviations": {
+            "three_letter": "SET",
+            "five_letter": "SETTL",
+            "seven_letter": "SETTLER",
+            "fourteen_letter": "SETTLERSHILL"
+        },
         "name": "Settlers Hill Landfill",
-        "height": 235.0
+        "height": 235
     }
 ]

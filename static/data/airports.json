@@ -3,53 +3,27 @@
         "latitude": 41.9742,
         "longitude": -87.9073,
         "abbreviations": {
-            "three_letter": "ORD",
-            "five_letter": "ORD",
-            "seven_letter": "ORD",
-            "fourteen_letter": "ORD"
+            "three_letter": "CHG",
+            "five_letter": "CHGO",
+            "seven_letter": "CHGO",
+            "fourteen_letter": "CHGO"
         },
-        "name": "O'Hare International Airport",
-        "iata_code": "ORD",
+        "name": "Chicagoland, US",
+        "iata_code": "CHGO",
         "geojson_id": 0
     },
     {
-        "latitude": 41.7868,
-        "longitude": -87.7522,
+        "latitude": 43.1399,
+        "longitude": -89.3375,
         "abbreviations": {
-            "three_letter": "MDW",
-            "five_letter": "MDW",
-            "seven_letter": "MDW",
-            "fourteen_letter": "MDW"
+            "three_letter": "MSN",
+            "five_letter": "MSN",
+            "seven_letter": "MSN",
+            "fourteen_letter": "MSN"
         },
-        "name": "Chicago Midway International Airport",
-        "iata_code": "MDW",
+        "name": "Madison, US",
+        "iata_code": "MSN",
         "geojson_id": 1
-    },
-    {
-        "latitude": 41.9078,
-        "longitude": -88.2486,
-        "abbreviations": {
-            "three_letter": "DPA",
-            "five_letter": "DPA",
-            "seven_letter": "DPA",
-            "fourteen_letter": "DPA"
-        },
-        "name": "DuPage Airport",
-        "iata_code": "DPA",
-        "geojson_id": 2
-    },
-    {
-        "latitude": 42.1142,
-        "longitude": -87.9015,
-        "abbreviations": {
-            "three_letter": "PWK",
-            "five_letter": "PWK",
-            "seven_letter": "PWK",
-            "fourteen_letter": "PWK"
-        },
-        "name": "Chicago Executive Airport",
-        "iata_code": "PWK",
-        "geojson_id": 3
     },
     {
         "latitude": 42.1954,
@@ -60,99 +34,21 @@
             "seven_letter": "RFD",
             "fourteen_letter": "RFD"
         },
-        "name": "Chicago Rockford International Airport",
+        "name": "Rockford, US",
         "iata_code": "RFD",
-        "geojson_id": 4
+        "geojson_id": 2
     },
     {
-        "latitude": 41.6163,
-        "longitude": -87.4128,
+        "latitude": 40.6642,
+        "longitude": -89.6932,
         "abbreviations": {
-            "three_letter": "GYY",
-            "five_letter": "GYY",
-            "seven_letter": "GYY",
-            "fourteen_letter": "GYY"
+            "three_letter": "PIA",
+            "five_letter": "PIA",
+            "seven_letter": "PIA",
+            "fourteen_letter": "PIA"
         },
-        "name": "Gary/Chicago International Airport",
-        "iata_code": "GYY",
-        "geojson_id": 5
-    },
-    {
-        "latitude": 42.4222,
-        "longitude": -87.8679,
-        "abbreviations": {
-            "three_letter": "UGN",
-            "five_letter": "UGN",
-            "seven_letter": "UGN",
-            "fourteen_letter": "UGN"
-        },
-        "name": "Waukegan National Airport",
-        "iata_code": "UGN",
-        "geojson_id": 6
-    },
-    {
-        "latitude": 41.7719,
-        "longitude": -88.4757,
-        "abbreviations": {
-            "three_letter": "ARR",
-            "five_letter": "ARR",
-            "seven_letter": "ARR",
-            "fourteen_letter": "ARR"
-        },
-        "name": "Aurora Municipal Airport",
-        "iata_code": "ARR",
-        "geojson_id": 7
-    },
-    {
-        "latitude": 41.5178,
-        "longitude": -88.1756,
-        "abbreviations": {
-            "three_letter": "JOT",
-            "five_letter": "JOT",
-            "seven_letter": "JOT",
-            "fourteen_letter": "JOT"
-        },
-        "name": "Joliet Regional Airport",
-        "iata_code": "JOT",
-        "geojson_id": 8
-    },
-    {
-        "latitude": 41.6073,
-        "longitude": -88.0962,
-        "abbreviations": {
-            "three_letter": "LOT",
-            "five_letter": "LOT",
-            "seven_letter": "LOT",
-            "fourteen_letter": "LOT"
-        },
-        "name": "Lewis University Airport",
-        "iata_code": "LOT",
-        "geojson_id": 9
-    },
-    {
-        "latitude": 42.2068,
-        "longitude": -88.323,
-        "abbreviations": {
-            "three_letter": "3CK",
-            "five_letter": "3CK",
-            "seven_letter": "3CK",
-            "fourteen_letter": "3CK"
-        },
-        "name": "Lake in the Hills Airport",
-        "iata_code": "3CK",
-        "geojson_id": 10
-    },
-    {
-        "latitude": 42.5957,
-        "longitude": -87.9278,
-        "abbreviations": {
-            "three_letter": "ENW",
-            "five_letter": "ENW",
-            "seven_letter": "ENW",
-            "fourteen_letter": "ENW"
-        },
-        "name": "Kenosha Regional Airport",
-        "iata_code": "ENW",
-        "geojson_id": 11
+        "name": "Peoria, US",
+        "iata_code": "PIA",
+        "geojson_id": 3
     }
 ]
