@@ -1,58 +1,135 @@
 [
     {
-        "name": "#bot",
-        "description": "Interact with helpful bots",
-        "order": 4,
-        "key": "eb50a1bcb3e4e5d7bf69a57c9dada211",
-        "url": "meshcore://channel/add?name=%23bot&secret=eb50a1bcb3e4e5d7bf69a57c9dada211"
-    },
-    {
-        "name": "#testing",
-        "description": "Test your devices, get feedback from other mesh members.",
+        "name": "#chicago",
+        "description": "The main Chicagoland Mesh community channel.",
         "order": 0,
-        "key": "cde5e82cf515647dcb547a79a4f065d1",
-        "url": "meshcore://channel/add?name=%23testing&secret=cde5e82cf515647dcb547a79a4f065d1"
+        "key": "c1c289b131e5222370cbc2048445844",
+        "url": "meshcore://channel/add?name=%23chicago&secret=c1c289b131e5222370cbc2048445844"
     },
     {
-        "name": "#hamradio",
-        "description": "For HAM radio operators who love to geek out over antennas and noise floors.",
-        "order": 6,
-        "key": "83c8b01997654265938da8765cbc7db9",
-        "url": "meshcore://channel/add?name=%23hamradio&secret=83c8b01997654265938da8765cbc7db9"
+        "name": "#chimesh",
+        "description": "Chicagoland Mesh operators and local network discussion.",
+        "order": 1,
+        "key": "869d8ae6f43e99f7ef463027f916f1fc",
+        "url": "meshcore://channel/add?name=%23chimesh&secret=869d8ae6f43e99f7ef463027f916f1fc"
+    },
+    {
+        "name": "#suburbs",
+        "description": "MeshCore discussion for the Chicago suburbs.",
+        "order": 2,
+        "key": "428a0416c430927e63d01a5da35839f0",
+        "url": "meshcore://channel/add?name=%23suburbs&secret=428a0416c430927e63d01a5da35839f0"
     },
     {
         "name": "#emergency",
-        "description": "Get vital broadcasts (bad weather, traffic, disasters, etc.)",
-        "order": 1,
+        "description": "Urgent public-safety, severe weather, and disaster broadcasts.",
+        "order": 3,
         "key": "e1ad578d25108e344808f30dfdaaf926",
         "url": "meshcore://channel/add?name=%23emergency&secret=e1ad578d25108e344808f30dfdaaf926"
     },
     {
-        "name": "#weather",
-        "description": "See weather forecasts or casually complain about the Colorado's inconsistent seasons.",
-        "order": 2,
-        "key": "88f502554fee92a1625cfb311546e7cb",
-        "url": "meshcore://channel/add?name=%23weather&secret=88f502554fee92a1625cfb311546e7cb"
-    },
-    {
-        "name": "#sports",
-        "description": "Share the highs and the lows of Colorado sports",
-        "order": 3,
-        "key": "e8ee81f3aabf105d9ba2d2d4bd94fe4a",
-        "url": "meshcore://channel/add?name=%23sports&secret=e8ee81f3aabf105d9ba2d2d4bd94fe4a"
+        "name": "#hamradio",
+        "description": "Ham radio, antennas, propagation, and radio engineering.",
+        "order": 4,
+        "key": "83c8b01997654265938da8765cbc7db9",
+        "url": "meshcore://channel/add?name=%23hamradio&secret=83c8b01997654265938da8765cbc7db9"
     },
     {
         "name": "#jokes",
-        "description": "It's mostly just dad jokes.",
+        "description": "A channel for jokes and light conversation.",
         "order": 5,
         "key": "abe610d61dee508c0ac18793c36c41c3",
         "url": "meshcore://channel/add?name=%23jokes&secret=abe610d61dee508c0ac18793c36c41c3"
     },
     {
-        "name": "#cm-reach",
-        "description": "Use in conjunction with https://rangecheck.meshcore.coloradomesh.org to see how connected you are to the wider mesh",
+        "name": "#weather",
+        "description": "Weather reports and local forecasts.",
+        "order": 6,
+        "key": "88f502554fee92a1625cfb311546e7cb",
+        "url": "meshcore://channel/add?name=%23weather&secret=88f502554fee92a1625cfb311546e7cb"
+    },
+    {
+        "name": "#sports",
+        "description": "Chicago sports discussion.",
         "order": 7,
-        "key": "273bc42ce81b9f75c466680b73de0b7a",
-        "url": "meshcore://channel/add?name=%23cm-reach&secret=273bc42ce81b9f75c466680b73de0b7a"
+        "key": "e8ee81f3aabf105d9ba2d2d4bd94fe4a",
+        "url": "meshcore://channel/add?name=%23sports&secret=e8ee81f3aabf105d9ba2d2d4bd94fe4a"
+    },
+    {
+        "name": "#cubs",
+        "description": "Chicago Cubs discussion.",
+        "order": 8,
+        "key": "567f84d8cd91406e7d84f962dc810522",
+        "url": "meshcore://channel/add?name=%23cubs&secret=567f84d8cd91406e7d84f962dc810522"
+    },
+    {
+        "name": "#whitesox",
+        "description": "Chicago White Sox discussion.",
+        "order": 9,
+        "key": "adeb8f2ea5cca1624bbeb684821dc846",
+        "url": "meshcore://channel/add?name=%23whitesox&secret=adeb8f2ea5cca1624bbeb684821dc846"
+    },
+    {
+        "name": "#bears",
+        "description": "Chicago Bears discussion.",
+        "order": 10,
+        "key": "e328bd6007f137d540491e0b98c0ef49",
+        "url": "meshcore://channel/add?name=%23bears&secret=e328bd6007f137d540491e0b98c0ef49"
+    },
+    {
+        "name": "#bulls",
+        "description": "Chicago Bulls discussion.",
+        "order": 11,
+        "key": "1e223bd0935a1983832435b8b876f97d",
+        "url": "meshcore://channel/add?name=%23bulls&secret=1e223bd0935a1983832435b8b876f97d"
+    },
+    {
+        "name": "#blackhawks",
+        "description": "Chicago Blackhawks discussion.",
+        "order": 12,
+        "key": "8f84f0a243ad2854c923d154d9c7fbe5",
+        "url": "meshcore://channel/add?name=%23blackhawks&secret=8f84f0a243ad2854c923d154d9c7fbe5"
+    },
+    {
+        "name": "#sky",
+        "description": "Chicago Sky discussion.",
+        "order": 13,
+        "key": "caa8572648096df8de3f4aafb0677f04",
+        "url": "meshcore://channel/add?name=%23sky&secret=caa8572648096df8de3f4aafb0677f04"
+    },
+    {
+        "name": "#bot",
+        "description": "Interact with helpful bots.",
+        "order": 14,
+        "key": "eb50a1bcb3e4e5d7bf69a57c9dada211",
+        "url": "meshcore://channel/add?name=%23bot&secret=eb50a1bcb3e4e5d7bf69a57c9dada211"
+    },
+    {
+        "name": "#test",
+        "description": "Test whether your node is being heard without spamming the public channel.",
+        "order": 15,
+        "key": "9cd8fcf22a47333b591d96a2b848b73f",
+        "url": "meshcore://channel/add?name=%23test&secret=9cd8fcf22a47333b591d96a2b848b73f"
+    },
+    {
+        "name": "#healthcheck",
+        "description": "Network and node health checks.",
+        "order": 16,
+        "key": "3ae59c2cda86744c75e68b3975a902ae",
+        "url": "meshcore://channel/add?name=%23healthcheck&secret=3ae59c2cda86744c75e68b3975a902ae"
+    },
+    {
+        "name": "#wardriving",
+        "description": "Wardriving observations and mobile mesh activity.",
+        "order": 17,
+        "key": "e3c26491e9cd321e3a6be50d57d54acf",
+        "url": "meshcore://channel/add?name=%23wardriving&secret=e3c26491e9cd321e3a6be50d57d54acf"
+    },
+    {
+        "name": "#chimesh-observer-alert",
+        "description": "Alerts from Chicagoland Mesh observer nodes.",
+        "order": 18,
+        "key": "5223d5371c7c13c349341d5f9537a555",
+        "url": "meshcore://channel/add?name=%23chimesh-observer-alert&secret=5223d5371c7c13c349341d5f9537a555"
     }
 ]

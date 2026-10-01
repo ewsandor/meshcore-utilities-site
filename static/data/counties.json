@@ -1,1348 +1,1226 @@
 [
     {
         "abbreviations": {
-            "three_letter": "ADM",
+            "three_letter": "ADA",
             "five_letter": "ADAMS",
-            "seven_letter": "ADAMS",
-            "fourteen_letter": "ADAMS"
+            "seven_letter": "ADAMSXX",
+            "fourteen_letter": "ADAMSXXXXXXXXX"
         },
         "name": "Adams",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
+        "state": "IL",
         "api_code": "001",
-        "geojson_id": 246,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "TE-UF",
-                "GA-GG"
-            ],
-            "three_letter_prefix_ranges": [
-                "SAA-TZZ"
-            ]
-        }
+        "geojson_id": 1
     },
     {
         "abbreviations": {
-            "three_letter": "ALM",
-            "five_letter": "ALAMS",
-            "seven_letter": "ALAMOSA",
-            "fourteen_letter": "ALAMOSA"
+            "three_letter": "ALE",
+            "five_letter": "ALEXA",
+            "seven_letter": "ALEXAND",
+            "fourteen_letter": "ALEXANDERXXXXX"
         },
-        "name": "Alamosa",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Sun Luis Valley",
+        "name": "Alexander",
+        "state": "IL",
+        "api_code": "002",
+        "geojson_id": 2
+    },
+    {
+        "abbreviations": {
+            "three_letter": "BON",
+            "five_letter": "BONDX",
+            "seven_letter": "BONDXXX",
+            "fourteen_letter": "BONDXXXXXXXXXX"
+        },
+        "name": "Bond",
+        "state": "IL",
         "api_code": "003",
-        "geojson_id": 247,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XE-XG"
-            ],
-            "three_letter_prefix_ranges": [
-                "EAA-EBD"
-            ]
-        }
+        "geojson_id": 3
     },
     {
         "abbreviations": {
-            "three_letter": "APH",
-            "five_letter": "ARAPH",
-            "seven_letter": "ARAPAHO",
-            "fourteen_letter": "ARAPAHOE"
+            "three_letter": "BOO",
+            "five_letter": "BOONE",
+            "seven_letter": "BOONEXX",
+            "fourteen_letter": "BOONEXXXXXXXXX"
         },
-        "name": "Arapahoe",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
+        "name": "Boone",
+        "state": "IL",
+        "api_code": "004",
+        "geojson_id": 4
+    },
+    {
+        "abbreviations": {
+            "three_letter": "BRO",
+            "five_letter": "BROWN",
+            "seven_letter": "BROWNXX",
+            "fourteen_letter": "BROWNXXXXXXXXX"
+        },
+        "name": "Brown",
+        "state": "IL",
         "api_code": "005",
-        "geojson_id": 248,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "PH-RP",
-                "FA-FG"
-            ],
-            "three_letter_prefix_ranges": [
-                "PAA-RZZ"
-            ]
-        }
+        "geojson_id": 5
     },
     {
         "abbreviations": {
-            "three_letter": "ARL",
-            "five_letter": "ARCHL",
-            "seven_letter": "ARCHULT",
-            "fourteen_letter": "ARCHULETA"
+            "three_letter": "BUR",
+            "five_letter": "BUREA",
+            "seven_letter": "BUREAUX",
+            "fourteen_letter": "BUREAUXXXXXXXX"
         },
-        "name": "Archuleta",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
+        "name": "Bureau",
+        "state": "IL",
+        "api_code": "006",
+        "geojson_id": 6
+    },
+    {
+        "abbreviations": {
+            "three_letter": "CAL",
+            "five_letter": "CALHO",
+            "seven_letter": "CALHOUN",
+            "fourteen_letter": "CALHOUNXXXXXXX"
+        },
+        "name": "Calhoun",
+        "state": "IL",
         "api_code": "007",
-        "geojson_id": 249,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YU"
-            ],
-            "three_letter_prefix_ranges": [
-                "FAA-FAL"
-            ]
-        }
+        "geojson_id": 7
     },
     {
         "abbreviations": {
-            "three_letter": "BAC",
-            "five_letter": "BACA",
-            "seven_letter": "BACA",
-            "fourteen_letter": "BACA"
+            "three_letter": "CAR",
+            "five_letter": "CARRO",
+            "seven_letter": "CARROLL",
+            "fourteen_letter": "CARROLLXXXXXXX"
         },
-        "name": "Baca",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
+        "name": "Carroll",
+        "state": "IL",
+        "api_code": "008",
+        "geojson_id": 8
+    },
+    {
+        "abbreviations": {
+            "three_letter": "CAS",
+            "five_letter": "CASSX",
+            "seven_letter": "CASSXXX",
+            "fourteen_letter": "CASSXXXXXXXXXX"
+        },
+        "name": "Cass",
+        "state": "IL",
         "api_code": "009",
-        "geojson_id": 250,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WG"
-            ],
-            "three_letter_prefix_ranges": [
-                "EBE-EBW"
-            ]
-        }
+        "geojson_id": 9
     },
     {
         "abbreviations": {
-            "three_letter": "BNT",
-            "five_letter": "BENT",
-            "seven_letter": "BENT",
-            "fourteen_letter": "BENT"
+            "three_letter": "CHA",
+            "five_letter": "CHAMP",
+            "seven_letter": "CHAMPAI",
+            "fourteen_letter": "CHAMPAIGNXXXXX"
         },
-        "name": "Bent",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
+        "name": "Champaign",
+        "state": "IL",
+        "api_code": "010",
+        "geojson_id": 10
+    },
+    {
+        "abbreviations": {
+            "three_letter": "CHR",
+            "five_letter": "CHRIS",
+            "seven_letter": "CHRISTI",
+            "fourteen_letter": "CHRISTIANXXXXX"
+        },
+        "name": "Christian",
+        "state": "IL",
         "api_code": "011",
-        "geojson_id": 251,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XC"
-            ],
-            "three_letter_prefix_ranges": [
-                "EBX-ECL"
-            ]
-        }
+        "geojson_id": 11
     },
     {
         "abbreviations": {
-            "three_letter": "BLD",
-            "five_letter": "BOULD",
-            "seven_letter": "BOULDER",
-            "fourteen_letter": "BOULDER"
+            "three_letter": "CLA",
+            "five_letter": "CLARK",
+            "seven_letter": "CLARKXX",
+            "fourteen_letter": "CLARKXXXXXXXXX"
         },
-        "name": "Boulder",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
+        "name": "Clark",
+        "state": "IL",
+        "api_code": "012",
+        "geojson_id": 12
+    },
+    {
+        "abbreviations": {
+            "three_letter": "CLA",
+            "five_letter": "CLAYX",
+            "seven_letter": "CLAYXXX",
+            "fourteen_letter": "CLAYXXXXXXXXXX"
+        },
+        "name": "Clay",
+        "state": "IL",
         "api_code": "013",
-        "geojson_id": 252,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ML-NF",
-                "FH-FP"
-            ],
-            "three_letter_prefix_ranges": [
-                "MAA-NZZ"
-            ]
-        }
+        "geojson_id": 13
     },
     {
         "abbreviations": {
-            "three_letter": "BRM",
-            "five_letter": "BROOM",
-            "seven_letter": "BROOMFL",
-            "fourteen_letter": "BROOMFIELD"
+            "three_letter": "CLI",
+            "five_letter": "CLINT",
+            "seven_letter": "CLINTON",
+            "fourteen_letter": "CLINTONXXXXXXX"
         },
-        "name": "Broomfield",
-        "co_rx_consortium_zone": 1,
-        "co_dola_region": "Front Range",
+        "name": "Clinton",
+        "state": "IL",
         "api_code": "014",
-        "geojson_id": 253,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [],
-            "three_letter_prefix_ranges": []
-        }
+        "geojson_id": 14
     },
     {
         "abbreviations": {
-            "three_letter": "CHF",
-            "five_letter": "CHAFF",
-            "seven_letter": "CHAFFEE",
-            "fourteen_letter": "CHAFFEE"
+            "three_letter": "COL",
+            "five_letter": "COLES",
+            "seven_letter": "COLESXX",
+            "fourteen_letter": "COLESXXXXXXXXX"
         },
-        "name": "Chaffee",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Central Mountains",
+        "name": "Coles",
+        "state": "IL",
         "api_code": "015",
-        "geojson_id": 254,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XH-XK"
-            ],
-            "three_letter_prefix_ranges": [
-                "FAM-FCC"
-            ]
-        }
+        "geojson_id": 15
     },
     {
         "abbreviations": {
-            "three_letter": "CHY",
-            "five_letter": "CHYEN",
-            "seven_letter": "CHYENNE",
-            "fourteen_letter": "CHEYENNE"
+            "three_letter": "COO",
+            "five_letter": "COOKX",
+            "seven_letter": "COOKXXX",
+            "fourteen_letter": "COOKXXXXXXXXXX"
         },
-        "name": "Cheyenne",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
+        "name": "Cook",
+        "state": "IL",
+        "api_code": "016",
+        "geojson_id": 16
+    },
+    {
+        "abbreviations": {
+            "three_letter": "CRA",
+            "five_letter": "CRAWF",
+            "seven_letter": "CRAWFOR",
+            "fourteen_letter": "CRAWFORDXXXXXX"
+        },
+        "name": "Crawford",
+        "state": "IL",
         "api_code": "017",
-        "geojson_id": 255,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YR"
-            ],
-            "three_letter_prefix_ranges": [
-                "ECM-ECT"
-            ]
-        }
+        "geojson_id": 17
     },
     {
         "abbreviations": {
-            "three_letter": "CLC",
-            "five_letter": "CLEAR",
-            "seven_letter": "CLEARCK",
-            "fourteen_letter": "CLEARCREEK"
+            "three_letter": "CUM",
+            "five_letter": "CUMBE",
+            "seven_letter": "CUMBERL",
+            "fourteen_letter": "CUMBERLANDXXXX"
         },
-        "name": "Clear Creek",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Central Mountains",
+        "name": "Cumberland",
+        "state": "IL",
+        "api_code": "018",
+        "geojson_id": 18
+    },
+    {
+        "abbreviations": {
+            "three_letter": "DEK",
+            "five_letter": "DEKAL",
+            "seven_letter": "DEKALBX",
+            "fourteen_letter": "DEKALBXXXXXXXX"
+        },
+        "name": "DeKalb",
+        "state": "IL",
         "api_code": "019",
-        "geojson_id": 256,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YY-YZ"
-            ],
-            "three_letter_prefix_ranges": [
-                "ECU-EDU"
-            ]
-        }
+        "geojson_id": 19
     },
     {
         "abbreviations": {
-            "three_letter": "CNJ",
-            "five_letter": "CONJO",
-            "seven_letter": "CONEJOS",
-            "fourteen_letter": "CONEJOS"
+            "three_letter": "DEW",
+            "five_letter": "DEWIT",
+            "seven_letter": "DEWITTX",
+            "fourteen_letter": "DEWITTXXXXXXXX"
         },
-        "name": "Conejos",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Sun Luis Valley",
-        "api_code": "021",
-        "geojson_id": 257,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WS"
-            ],
-            "three_letter_prefix_ranges": [
-                "EDV-EEK"
-            ]
-        }
+        "name": "DeWitt",
+        "state": "IL",
+        "api_code": "020",
+        "geojson_id": 20
     },
     {
         "abbreviations": {
-            "three_letter": "CTL",
-            "five_letter": "CSTIL",
-            "seven_letter": "COSTILL",
-            "fourteen_letter": "COSTILLA"
-        },
-        "name": "Costilla",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Sun Luis Valley",
-        "api_code": "023",
-        "geojson_id": 258,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YA"
-            ],
-            "three_letter_prefix_ranges": [
-                "EEL-EES"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "CWL",
-            "five_letter": "CROWL",
-            "seven_letter": "CROWLEY",
-            "fourteen_letter": "CROWLEY"
-        },
-        "name": "Crowley",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "025",
-        "geojson_id": 259,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XW-XX"
-            ],
-            "three_letter_prefix_ranges": [
-                "EET-EFA"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "CST",
-            "five_letter": "CUSTR",
-            "seven_letter": "CUSTER",
-            "fourteen_letter": "CUSTER"
-        },
-        "name": "Custer",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Central Mountains",
-        "api_code": "027",
-        "geojson_id": 260,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZA"
-            ],
-            "three_letter_prefix_ranges": [
-                "EFB-EFG"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "DLT",
-            "five_letter": "DELTA",
-            "seven_letter": "DELTA",
-            "fourteen_letter": "DELTA"
-        },
-        "name": "Delta",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "029",
-        "geojson_id": 261,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "VL-VN"
-            ],
-            "three_letter_prefix_ranges": []
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "DEN",
-            "five_letter": "DENVR",
-            "seven_letter": "DENVER",
-            "fourteen_letter": "DENVER"
-        },
-        "name": "Denver",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
-        "api_code": "031",
-        "geojson_id": 262,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "AA-CV"
-            ],
-            "three_letter_prefix_ranges": [
-                "AAA-DZZ"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "DLR",
-            "five_letter": "DOLOR",
-            "seven_letter": "DOLORES",
-            "fourteen_letter": "DOLORES"
-        },
-        "name": "Dolores",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "033",
-        "geojson_id": 263,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZH"
-            ],
-            "three_letter_prefix_ranges": [
-                "EHR-EHV"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "DGL",
+            "three_letter": "DOU",
             "five_letter": "DOUGL",
             "seven_letter": "DOUGLAS",
-            "fourteen_letter": "DOUGLAS"
+            "fourteen_letter": "DOUGLASXXXXXXX"
         },
         "name": "Douglas",
-        "co_rx_consortium_zone": 1,
-        "co_dola_region": "Front Range",
+        "state": "IL",
+        "api_code": "021",
+        "geojson_id": 21
+    },
+    {
+        "abbreviations": {
+            "three_letter": "DUP",
+            "five_letter": "DUPAG",
+            "seven_letter": "DUPAGEX",
+            "fourteen_letter": "DUPAGEXXXXXXXX"
+        },
+        "name": "DuPage",
+        "state": "IL",
+        "api_code": "022",
+        "geojson_id": 22
+    },
+    {
+        "abbreviations": {
+            "three_letter": "EDG",
+            "five_letter": "EDGAR",
+            "seven_letter": "EDGARXX",
+            "fourteen_letter": "EDGARXXXXXXXXX"
+        },
+        "name": "Edgar",
+        "state": "IL",
+        "api_code": "023",
+        "geojson_id": 23
+    },
+    {
+        "abbreviations": {
+            "three_letter": "EDW",
+            "five_letter": "EDWAR",
+            "seven_letter": "EDWARDS",
+            "fourteen_letter": "EDWARDSXXXXXXX"
+        },
+        "name": "Edwards",
+        "state": "IL",
+        "api_code": "024",
+        "geojson_id": 24
+    },
+    {
+        "abbreviations": {
+            "three_letter": "EFF",
+            "five_letter": "EFFIN",
+            "seven_letter": "EFFINGH",
+            "fourteen_letter": "EFFINGHAMXXXXX"
+        },
+        "name": "Effingham",
+        "state": "IL",
+        "api_code": "025",
+        "geojson_id": 25
+    },
+    {
+        "abbreviations": {
+            "three_letter": "FAY",
+            "five_letter": "FAYET",
+            "seven_letter": "FAYETTE",
+            "fourteen_letter": "FAYETTEXXXXXXX"
+        },
+        "name": "Fayette",
+        "state": "IL",
+        "api_code": "026",
+        "geojson_id": 26
+    },
+    {
+        "abbreviations": {
+            "three_letter": "FOR",
+            "five_letter": "FORDX",
+            "seven_letter": "FORDXXX",
+            "fourteen_letter": "FORDXXXXXXXXXX"
+        },
+        "name": "Ford",
+        "state": "IL",
+        "api_code": "027",
+        "geojson_id": 27
+    },
+    {
+        "abbreviations": {
+            "three_letter": "FRA",
+            "five_letter": "FRANK",
+            "seven_letter": "FRANKLI",
+            "fourteen_letter": "FRANKLINXXXXXX"
+        },
+        "name": "Franklin",
+        "state": "IL",
+        "api_code": "028",
+        "geojson_id": 28
+    },
+    {
+        "abbreviations": {
+            "three_letter": "FUL",
+            "five_letter": "FULTO",
+            "seven_letter": "FULTONX",
+            "fourteen_letter": "FULTONXXXXXXXX"
+        },
+        "name": "Fulton",
+        "state": "IL",
+        "api_code": "029",
+        "geojson_id": 29
+    },
+    {
+        "abbreviations": {
+            "three_letter": "GAL",
+            "five_letter": "GALLA",
+            "seven_letter": "GALLATI",
+            "fourteen_letter": "GALLATINXXXXXX"
+        },
+        "name": "Gallatin",
+        "state": "IL",
+        "api_code": "030",
+        "geojson_id": 30
+    },
+    {
+        "abbreviations": {
+            "three_letter": "GRE",
+            "five_letter": "GREEN",
+            "seven_letter": "GREENEX",
+            "fourteen_letter": "GREENEXXXXXXXX"
+        },
+        "name": "Greene",
+        "state": "IL",
+        "api_code": "031",
+        "geojson_id": 31
+    },
+    {
+        "abbreviations": {
+            "three_letter": "GRU",
+            "five_letter": "GRUND",
+            "seven_letter": "GRUNDYX",
+            "fourteen_letter": "GRUNDYXXXXXXXX"
+        },
+        "name": "Grundy",
+        "state": "IL",
+        "api_code": "032",
+        "geojson_id": 32
+    },
+    {
+        "abbreviations": {
+            "three_letter": "HAM",
+            "five_letter": "HAMIL",
+            "seven_letter": "HAMILTO",
+            "fourteen_letter": "HAMILTONXXXXXX"
+        },
+        "name": "Hamilton",
+        "state": "IL",
+        "api_code": "033",
+        "geojson_id": 33
+    },
+    {
+        "abbreviations": {
+            "three_letter": "HAN",
+            "five_letter": "HANCO",
+            "seven_letter": "HANCOCK",
+            "fourteen_letter": "HANCOCKXXXXXXX"
+        },
+        "name": "Hancock",
+        "state": "IL",
+        "api_code": "034",
+        "geojson_id": 34
+    },
+    {
+        "abbreviations": {
+            "three_letter": "HAR",
+            "five_letter": "HARDI",
+            "seven_letter": "HARDINX",
+            "fourteen_letter": "HARDINXXXXXXXX"
+        },
+        "name": "Hardin",
+        "state": "IL",
         "api_code": "035",
-        "geojson_id": 264,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YS-YT"
-            ],
-            "three_letter_prefix_ranges": [
-                "EHW-EMA"
-            ]
-        }
+        "geojson_id": 35
     },
     {
         "abbreviations": {
-            "three_letter": "EAG",
-            "five_letter": "EAGLE",
-            "seven_letter": "EAGLE",
-            "fourteen_letter": "EAGLE"
+            "three_letter": "HEN",
+            "five_letter": "HENDE",
+            "seven_letter": "HENDERS",
+            "fourteen_letter": "HENDERSONXXXXX"
         },
-        "name": "Eagle",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
+        "name": "Henderson",
+        "state": "IL",
+        "api_code": "036",
+        "geojson_id": 36
+    },
+    {
+        "abbreviations": {
+            "three_letter": "HEN",
+            "five_letter": "HENRY",
+            "seven_letter": "HENRYXX",
+            "fourteen_letter": "HENRYXXXXXXXXX"
+        },
+        "name": "Henry",
+        "state": "IL",
         "api_code": "037",
-        "geojson_id": 265,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YM-YN"
-            ],
-            "three_letter_prefix_ranges": [
-                "EMB-EPA"
-            ]
-        }
+        "geojson_id": 37
     },
     {
         "abbreviations": {
-            "three_letter": "ELB",
-            "five_letter": "ELBRT",
-            "seven_letter": "ELBERT",
-            "fourteen_letter": "ELBERT"
+            "three_letter": "IRO",
+            "five_letter": "IROQU",
+            "seven_letter": "IROQUOI",
+            "fourteen_letter": "IROQUOISXXXXXX"
         },
-        "name": "Elbert",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "039",
-        "geojson_id": 266,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XS-XT"
-            ],
-            "three_letter_prefix_ranges": [
-                "EPB-EPU"
-            ]
-        }
+        "name": "Iroquois",
+        "state": "IL",
+        "api_code": "038",
+        "geojson_id": 38
     },
     {
         "abbreviations": {
-            "three_letter": "ELP",
-            "five_letter": "ELPAS",
-            "seven_letter": "ELPASO",
-            "fourteen_letter": "ELPASO"
-        },
-        "name": "El Paso",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
-        "api_code": "041",
-        "geojson_id": 267,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "JX-LL",
-                "FR-FT",
-                "FV"
-            ],
-            "three_letter_prefix_ranges": [
-                "KAA-LZZ"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "FMT",
-            "five_letter": "FREMT",
-            "seven_letter": "FREMONT",
-            "fourteen_letter": "FREMONT"
-        },
-        "name": "Fremont",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Central Mountains",
-        "api_code": "043",
-        "geojson_id": 268,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "UP-UT"
-            ],
-            "three_letter_prefix_ranges": [
-                "EPV-ETV"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "GFL",
-            "five_letter": "GARFL",
-            "seven_letter": "GARFLD",
-            "fourteen_letter": "GARFIELD"
-        },
-        "name": "Garfield",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "045",
-        "geojson_id": 269,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WM-WR"
-            ],
-            "three_letter_prefix_ranges": [
-                "ETM-ETW"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "GLP",
-            "five_letter": "GILPN",
-            "seven_letter": "GILPIN",
-            "fourteen_letter": "GILPIN"
-        },
-        "name": "Gilpin",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Central Mountains",
-        "api_code": "047",
-        "geojson_id": 270,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZK"
-            ],
-            "three_letter_prefix_ranges": [
-                "EWN-EWV"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "GRD",
-            "five_letter": "GRAND",
-            "seven_letter": "GRAND",
-            "fourteen_letter": "GRAND"
-        },
-        "name": "Grand",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "049",
-        "geojson_id": 271,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZB-ZC"
-            ],
-            "three_letter_prefix_ranges": [
-                "EWZ-EYB"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "GUN",
-            "five_letter": "GUNN",
-            "seven_letter": "GUNNISN",
-            "fourteen_letter": "GUNNISON"
-        },
-        "name": "Gunnison",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "051",
-        "geojson_id": 272,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YD-YE"
-            ],
-            "three_letter_prefix_ranges": [
-                "EYC-EZC"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "HIN",
-            "five_letter": "HINSD",
-            "seven_letter": "HINSDAL",
-            "fourteen_letter": "HINSDALE"
-        },
-        "name": "Hinsdale",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "053",
-        "geojson_id": 273,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZN"
-            ],
-            "three_letter_prefix_ranges": [
-                "EZD-EZE"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "HRF",
-            "five_letter": "HUERF",
-            "seven_letter": "HUERFAN",
-            "fourteen_letter": "HUERFANO"
-        },
-        "name": "Huerfano",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Central Mountains",
-        "api_code": "055",
-        "geojson_id": 274,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "VE"
-            ],
-            "three_letter_prefix_ranges": [
-                "EZF-EZW"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "JKS",
+            "three_letter": "JAC",
             "five_letter": "JACKS",
             "seven_letter": "JACKSON",
-            "fourteen_letter": "JACKSON"
+            "fourteen_letter": "JACKSONXXXXXXX"
         },
         "name": "Jackson",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "057",
-        "geojson_id": 275,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZJ"
-            ],
-            "three_letter_prefix_ranges": [
-                "FGC-FGH"
-            ]
-        }
+        "state": "IL",
+        "api_code": "039",
+        "geojson_id": 39
     },
     {
         "abbreviations": {
-            "three_letter": "JFR",
-            "five_letter": "JEFFR",
+            "three_letter": "JAS",
+            "five_letter": "JASPE",
+            "seven_letter": "JASPERX",
+            "fourteen_letter": "JASPERXXXXXXXX"
+        },
+        "name": "Jasper",
+        "state": "IL",
+        "api_code": "040",
+        "geojson_id": 40
+    },
+    {
+        "abbreviations": {
+            "three_letter": "JEF",
+            "five_letter": "JEFFE",
             "seven_letter": "JEFFERS",
-            "fourteen_letter": "JEFFERSON"
+            "fourteen_letter": "JEFFERSONXXXXX"
         },
         "name": "Jefferson",
-        "co_rx_consortium_zone": 0,
-        "co_dola_region": "Front Range",
-        "api_code": "059",
-        "geojson_id": 276,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "RS-TD",
-                "HG-HW"
-            ],
-            "three_letter_prefix_ranges": [
-                "GAA-JZZ"
-            ]
-        }
+        "state": "IL",
+        "api_code": "041",
+        "geojson_id": 41
     },
     {
         "abbreviations": {
-            "three_letter": "KWA",
-            "five_letter": "KIOWA",
-            "seven_letter": "KIOWA",
-            "fourteen_letter": "KIOWA"
+            "three_letter": "JER",
+            "five_letter": "JERSE",
+            "seven_letter": "JERSEYX",
+            "fourteen_letter": "JERSEYXXXXXXXX"
         },
-        "name": "Kiowa",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "061",
-        "geojson_id": 277,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YP"
-            ],
-            "three_letter_prefix_ranges": [
-                "WUS-WUY"
-            ]
-        }
+        "name": "Jersey",
+        "state": "IL",
+        "api_code": "042",
+        "geojson_id": 42
     },
     {
         "abbreviations": {
-            "three_letter": "KCR",
-            "five_letter": "KITCR",
-            "seven_letter": "KITCRSN",
-            "fourteen_letter": "KITCARSON"
+            "three_letter": "JOD",
+            "five_letter": "JODAV",
+            "seven_letter": "JODAVIE",
+            "fourteen_letter": "JODAVIESSXXXXX"
         },
-        "name": "Kit Carson",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "063",
-        "geojson_id": 278,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WU-WV"
-            ],
-            "three_letter_prefix_ranges": [
-                "WUZ-WVV"
-            ]
-        }
+        "name": "Jo Daviess",
+        "state": "IL",
+        "api_code": "043",
+        "geojson_id": 43
     },
     {
         "abbreviations": {
-            "three_letter": "LAK",
-            "five_letter": "LAKE",
-            "seven_letter": "LAKE",
-            "fourteen_letter": "LAKE"
+            "three_letter": "JOH",
+            "five_letter": "JOHNS",
+            "seven_letter": "JOHNSON",
+            "fourteen_letter": "JOHNSONXXXXXXX"
         },
-        "name": "Lake",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Central Mountains",
-        "api_code": "065",
-        "geojson_id": 279,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YF-YH"
-            ],
-            "three_letter_prefix_ranges": [
-                "FCD-FDE"
-            ]
-        }
+        "name": "Johnson",
+        "state": "IL",
+        "api_code": "044",
+        "geojson_id": 44
     },
     {
         "abbreviations": {
-            "three_letter": "LPT",
-            "five_letter": "LPLAT",
-            "seven_letter": "LAPLATA",
-            "fourteen_letter": "LAPLATA"
+            "three_letter": "KAN",
+            "five_letter": "KANEX",
+            "seven_letter": "KANEXXX",
+            "fourteen_letter": "KANEXXXXXXXXXX"
         },
-        "name": "La Plata",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "067",
-        "geojson_id": 280,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "VV-VY"
-            ],
-            "three_letter_prefix_ranges": [
-                "FDF-FGB"
-            ]
-        }
+        "name": "Kane",
+        "state": "IL",
+        "api_code": "045",
+        "geojson_id": 45
     },
     {
         "abbreviations": {
-            "three_letter": "LAR",
-            "five_letter": "LARIM",
-            "seven_letter": "LARIMER",
-            "fourteen_letter": "LARIMER"
+            "three_letter": "KAN",
+            "five_letter": "KANKA",
+            "seven_letter": "KANKAKE",
+            "fourteen_letter": "KANKAKEEXXXXXX"
         },
-        "name": "Larimer",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Front Range",
-        "api_code": "069",
-        "geojson_id": 281,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "LU-MK",
-                "FX-FY"
-            ],
-            "three_letter_prefix_ranges": [
-                "FHA-FZZ"
-            ]
-        }
+        "name": "Kankakee",
+        "state": "IL",
+        "api_code": "046",
+        "geojson_id": 46
+    },
+    {
+        "abbreviations": {
+            "three_letter": "KEN",
+            "five_letter": "KENDA",
+            "seven_letter": "KENDALL",
+            "fourteen_letter": "KENDALLXXXXXXX"
+        },
+        "name": "Kendall",
+        "state": "IL",
+        "api_code": "047",
+        "geojson_id": 47
+    },
+    {
+        "abbreviations": {
+            "three_letter": "KNO",
+            "five_letter": "KNOXX",
+            "seven_letter": "KNOXXXX",
+            "fourteen_letter": "KNOXXXXXXXXXXX"
+        },
+        "name": "Knox",
+        "state": "IL",
+        "api_code": "048",
+        "geojson_id": 48
     },
     {
         "abbreviations": {
             "three_letter": "LAS",
-            "five_letter": "LSANM",
-            "seven_letter": "LSANMAS",
-            "fourteen_letter": "LASANIMAS"
+            "five_letter": "LASAL",
+            "seven_letter": "LASALLE",
+            "fourteen_letter": "LASALLEXXXXXXX"
         },
-        "name": "Las Animas",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Central Mountains",
-        "api_code": "071",
-        "geojson_id": 282,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "LM-LN"
-            ],
-            "three_letter_prefix_ranges": [
-                "UAA-UBK"
-            ]
-        }
+        "name": "LaSalle",
+        "state": "IL",
+        "api_code": "049",
+        "geojson_id": 49
     },
     {
         "abbreviations": {
-            "three_letter": "LIN",
-            "five_letter": "LINCL",
-            "seven_letter": "LINCOLN",
-            "fourteen_letter": "LINCOLN"
+            "three_letter": "LAK",
+            "five_letter": "LAKEX",
+            "seven_letter": "LAKEXXX",
+            "fourteen_letter": "LAKEXXXXXXXXXX"
         },
-        "name": "Lincoln",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "073",
-        "geojson_id": 283,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XP-XR"
-            ],
-            "three_letter_prefix_ranges": [
-                "UBL-UCA"
-            ]
-        }
+        "name": "Lake",
+        "state": "IL",
+        "api_code": "050",
+        "geojson_id": 50
+    },
+    {
+        "abbreviations": {
+            "three_letter": "LAW",
+            "five_letter": "LAWRE",
+            "seven_letter": "LAWRENC",
+            "fourteen_letter": "LAWRENCEXXXXXX"
+        },
+        "name": "Lawrence",
+        "state": "IL",
+        "api_code": "051",
+        "geojson_id": 51
+    },
+    {
+        "abbreviations": {
+            "three_letter": "LEE",
+            "five_letter": "LEEXX",
+            "seven_letter": "LEEXXXX",
+            "fourteen_letter": "LEEXXXXXXXXXXX"
+        },
+        "name": "Lee",
+        "state": "IL",
+        "api_code": "052",
+        "geojson_id": 52
+    },
+    {
+        "abbreviations": {
+            "three_letter": "LIV",
+            "five_letter": "LIVIN",
+            "seven_letter": "LIVINGS",
+            "fourteen_letter": "LIVINGSTONXXXX"
+        },
+        "name": "Livingston",
+        "state": "IL",
+        "api_code": "053",
+        "geojson_id": 53
     },
     {
         "abbreviations": {
             "three_letter": "LOG",
             "five_letter": "LOGAN",
-            "seven_letter": "LOGAN",
-            "fourteen_letter": "LOGAN"
+            "seven_letter": "LOGANXX",
+            "fourteen_letter": "LOGANXXXXXXXXX"
         },
         "name": "Logan",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "075",
-        "geojson_id": 284,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "UG-UJ"
-            ],
-            "three_letter_prefix_ranges": [
-                "UCB-UEH"
-            ]
-        }
+        "state": "IL",
+        "api_code": "054",
+        "geojson_id": 54
     },
     {
         "abbreviations": {
-            "three_letter": "MES",
-            "five_letter": "MESA",
-            "seven_letter": "MESA",
-            "fourteen_letter": "MESA"
+            "three_letter": "MAC",
+            "five_letter": "MACON",
+            "seven_letter": "MACONXX",
+            "fourteen_letter": "MACONXXXXXXXXX"
         },
-        "name": "Mesa",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "077",
-        "geojson_id": 285,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "NG-NT"
-            ],
-            "three_letter_prefix_ranges": [
-                "UEJ-UNL"
-            ]
-        }
+        "name": "Macon",
+        "state": "IL",
+        "api_code": "055",
+        "geojson_id": 55
     },
     {
         "abbreviations": {
-            "three_letter": "MIN",
-            "five_letter": "MINRL",
-            "seven_letter": "MINERAL",
-            "fourteen_letter": "MINERAL"
+            "three_letter": "MAC",
+            "five_letter": "MACOU",
+            "seven_letter": "MACOUPI",
+            "fourteen_letter": "MACOUPINXXXXXX"
         },
-        "name": "Mineral",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Sun Luis Valley",
-        "api_code": "079",
-        "geojson_id": 286,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZM"
-            ],
-            "three_letter_prefix_ranges": [
-                "UNM-UNR"
-            ]
-        }
+        "name": "Macoupin",
+        "state": "IL",
+        "api_code": "056",
+        "geojson_id": 56
     },
     {
         "abbreviations": {
-            "three_letter": "MFT",
-            "five_letter": "MOFFT",
-            "seven_letter": "MOFFAT",
-            "fourteen_letter": "MOFFAT"
+            "three_letter": "MAD",
+            "five_letter": "MADIS",
+            "seven_letter": "MADISON",
+            "fourteen_letter": "MADISONXXXXXXX"
         },
-        "name": "Moffat",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "081",
-        "geojson_id": 287,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YJ-YK"
-            ],
-            "three_letter_prefix_ranges": [
-                "UNS-UPX"
-            ]
-        }
+        "name": "Madison",
+        "state": "IL",
+        "api_code": "057",
+        "geojson_id": 57
     },
     {
         "abbreviations": {
-            "three_letter": "MTZ",
-            "five_letter": "MNTZM",
-            "seven_letter": "MNTZUMA",
-            "fourteen_letter": "MONTEZUMA"
+            "three_letter": "MAR",
+            "five_letter": "MARIO",
+            "seven_letter": "MARIONX",
+            "fourteen_letter": "MARIONXXXXXXXX"
         },
-        "name": "Montezuma",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "083",
-        "geojson_id": 288,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XL-XN"
-            ],
-            "three_letter_prefix_ranges": [
-                "UPY-USL"
-            ]
-        }
+        "name": "Marion",
+        "state": "IL",
+        "api_code": "058",
+        "geojson_id": 58
     },
     {
         "abbreviations": {
-            "three_letter": "MTR",
-            "five_letter": "MNTRO",
-            "seven_letter": "MONTRSE",
-            "fourteen_letter": "MONTROSE"
+            "three_letter": "MAR",
+            "five_letter": "MARSH",
+            "seven_letter": "MARSHAL",
+            "fourteen_letter": "MARSHALLXXXXXX"
         },
-        "name": "Montrose",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "085",
-        "geojson_id": 289,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WB-WD"
-            ],
-            "three_letter_prefix_ranges": [
-                "USM-UUZ"
-            ]
-        }
+        "name": "Marshall",
+        "state": "IL",
+        "api_code": "059",
+        "geojson_id": 59
     },
     {
         "abbreviations": {
-            "three_letter": "MGN",
-            "five_letter": "MORGN",
-            "seven_letter": "MORGAN",
-            "fourteen_letter": "MORGAN"
+            "three_letter": "MAS",
+            "five_letter": "MASON",
+            "seven_letter": "MASONXX",
+            "fourteen_letter": "MASONXXXXXXXXX"
+        },
+        "name": "Mason",
+        "state": "IL",
+        "api_code": "060",
+        "geojson_id": 60
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MAS",
+            "five_letter": "MASSA",
+            "seven_letter": "MASSACX",
+            "fourteen_letter": "MASSACXXXXXXXX"
+        },
+        "name": "Massac",
+        "state": "IL",
+        "api_code": "061",
+        "geojson_id": 61
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MCD",
+            "five_letter": "MCDON",
+            "seven_letter": "MCDONOU",
+            "fourteen_letter": "MCDONOUGHXXXXX"
+        },
+        "name": "McDonough",
+        "state": "IL",
+        "api_code": "062",
+        "geojson_id": 62
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MCH",
+            "five_letter": "MCHEN",
+            "seven_letter": "MCHENRY",
+            "fourteen_letter": "MCHENRYXXXXXXX"
+        },
+        "name": "McHenry",
+        "state": "IL",
+        "api_code": "063",
+        "geojson_id": 63
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MCL",
+            "five_letter": "MCLEA",
+            "seven_letter": "MCLEANX",
+            "fourteen_letter": "MCLEANXXXXXXXX"
+        },
+        "name": "McLean",
+        "state": "IL",
+        "api_code": "064",
+        "geojson_id": 64
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MEN",
+            "five_letter": "MENAR",
+            "seven_letter": "MENARDX",
+            "fourteen_letter": "MENARDXXXXXXXX"
+        },
+        "name": "Menard",
+        "state": "IL",
+        "api_code": "065",
+        "geojson_id": 65
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MER",
+            "five_letter": "MERCE",
+            "seven_letter": "MERCERX",
+            "fourteen_letter": "MERCERXXXXXXXX"
+        },
+        "name": "Mercer",
+        "state": "IL",
+        "api_code": "066",
+        "geojson_id": 66
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MON",
+            "five_letter": "MONRO",
+            "seven_letter": "MONROEX",
+            "fourteen_letter": "MONROEXXXXXXXX"
+        },
+        "name": "Monroe",
+        "state": "IL",
+        "api_code": "067",
+        "geojson_id": 67
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MON",
+            "five_letter": "MONTG",
+            "seven_letter": "MONTGOM",
+            "fourteen_letter": "MONTGOMERYXXXX"
+        },
+        "name": "Montgomery",
+        "state": "IL",
+        "api_code": "068",
+        "geojson_id": 68
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MOR",
+            "five_letter": "MORGA",
+            "seven_letter": "MORGANX",
+            "fourteen_letter": "MORGANXXXXXXXX"
         },
         "name": "Morgan",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Eastern Plains",
+        "state": "IL",
+        "api_code": "069",
+        "geojson_id": 69
+    },
+    {
+        "abbreviations": {
+            "three_letter": "MOU",
+            "five_letter": "MOULT",
+            "seven_letter": "MOULTRI",
+            "fourteen_letter": "MOULTRIEXXXXXX"
+        },
+        "name": "Moultrie",
+        "state": "IL",
+        "api_code": "070",
+        "geojson_id": 70
+    },
+    {
+        "abbreviations": {
+            "three_letter": "OGL",
+            "five_letter": "OGLEX",
+            "seven_letter": "OGLEXXX",
+            "fourteen_letter": "OGLEXXXXXXXXXX"
+        },
+        "name": "Ogle",
+        "state": "IL",
+        "api_code": "071",
+        "geojson_id": 71
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PEO",
+            "five_letter": "PEORI",
+            "seven_letter": "PEORIAX",
+            "fourteen_letter": "PEORIAXXXXXXXX"
+        },
+        "name": "Peoria",
+        "state": "IL",
+        "api_code": "072",
+        "geojson_id": 72
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PER",
+            "five_letter": "PERRY",
+            "seven_letter": "PERRYXX",
+            "fourteen_letter": "PERRYXXXXXXXXX"
+        },
+        "name": "Perry",
+        "state": "IL",
+        "api_code": "073",
+        "geojson_id": 73
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PIA",
+            "five_letter": "PIATT",
+            "seven_letter": "PIATTXX",
+            "fourteen_letter": "PIATTXXXXXXXXX"
+        },
+        "name": "Piatt",
+        "state": "IL",
+        "api_code": "074",
+        "geojson_id": 74
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PIK",
+            "five_letter": "PIKEX",
+            "seven_letter": "PIKEXXX",
+            "fourteen_letter": "PIKEXXXXXXXXXX"
+        },
+        "name": "Pike",
+        "state": "IL",
+        "api_code": "075",
+        "geojson_id": 75
+    },
+    {
+        "abbreviations": {
+            "three_letter": "POP",
+            "five_letter": "POPEX",
+            "seven_letter": "POPEXXX",
+            "fourteen_letter": "POPEXXXXXXXXXX"
+        },
+        "name": "Pope",
+        "state": "IL",
+        "api_code": "076",
+        "geojson_id": 76
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PUL",
+            "five_letter": "PULAS",
+            "seven_letter": "PULASKI",
+            "fourteen_letter": "PULASKIXXXXXXX"
+        },
+        "name": "Pulaski",
+        "state": "IL",
+        "api_code": "077",
+        "geojson_id": 77
+    },
+    {
+        "abbreviations": {
+            "three_letter": "PUT",
+            "five_letter": "PUTNA",
+            "seven_letter": "PUTNAMX",
+            "fourteen_letter": "PUTNAMXXXXXXXX"
+        },
+        "name": "Putnam",
+        "state": "IL",
+        "api_code": "078",
+        "geojson_id": 78
+    },
+    {
+        "abbreviations": {
+            "three_letter": "RAN",
+            "five_letter": "RANDO",
+            "seven_letter": "RANDOLP",
+            "fourteen_letter": "RANDOLPHXXXXXX"
+        },
+        "name": "Randolph",
+        "state": "IL",
+        "api_code": "079",
+        "geojson_id": 79
+    },
+    {
+        "abbreviations": {
+            "three_letter": "RIC",
+            "five_letter": "RICHL",
+            "seven_letter": "RICHLAN",
+            "fourteen_letter": "RICHLANDXXXXXX"
+        },
+        "name": "Richland",
+        "state": "IL",
+        "api_code": "080",
+        "geojson_id": 80
+    },
+    {
+        "abbreviations": {
+            "three_letter": "ROC",
+            "five_letter": "ROCKI",
+            "seven_letter": "ROCKISL",
+            "fourteen_letter": "ROCKISLAND"
+        },
+        "name": "Rock Island",
+        "state": "IL",
+        "api_code": "081",
+        "geojson_id": 81
+    },
+    {
+        "abbreviations": {
+            "three_letter": "SAL",
+            "five_letter": "SALIN",
+            "seven_letter": "SALINEX",
+            "fourteen_letter": "SALINEXXXXXXXX"
+        },
+        "name": "Saline",
+        "state": "IL",
+        "api_code": "082",
+        "geojson_id": 82
+    },
+    {
+        "abbreviations": {
+            "three_letter": "SAN",
+            "five_letter": "SANGA",
+            "seven_letter": "SANGAMO",
+            "fourteen_letter": "SANGAMONXXXXXX"
+        },
+        "name": "Sangamon",
+        "state": "IL",
+        "api_code": "083",
+        "geojson_id": 83
+    },
+    {
+        "abbreviations": {
+            "three_letter": "SCH",
+            "five_letter": "SCHUY",
+            "seven_letter": "SCHUYLE",
+            "fourteen_letter": "SCHUYLERXXXXXX"
+        },
+        "name": "Schuyler",
+        "state": "IL",
+        "api_code": "084",
+        "geojson_id": 84
+    },
+    {
+        "abbreviations": {
+            "three_letter": "SCO",
+            "five_letter": "SCOTT",
+            "seven_letter": "SCOTTXX",
+            "fourteen_letter": "SCOTTXXXXXXXXX"
+        },
+        "name": "Scott",
+        "state": "IL",
+        "api_code": "085",
+        "geojson_id": 85
+    },
+    {
+        "abbreviations": {
+            "three_letter": "SHE",
+            "five_letter": "SHELB",
+            "seven_letter": "SHELBYX",
+            "fourteen_letter": "SHELBYXXXXXXXX"
+        },
+        "name": "Shelby",
+        "state": "IL",
+        "api_code": "086",
+        "geojson_id": 86
+    },
+    {
+        "abbreviations": {
+            "three_letter": "STC",
+            "five_letter": "STCLA",
+            "seven_letter": "STCLAIR",
+            "fourteen_letter": "STCLAIR"
+        },
+        "name": "St. Clair",
+        "state": "IL",
         "api_code": "087",
-        "geojson_id": 290,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "UW-UY"
-            ],
-            "three_letter_prefix_ranges": [
-                "UVA-UXR"
-            ]
-        }
+        "geojson_id": 87
     },
     {
         "abbreviations": {
-            "three_letter": "OTR",
-            "five_letter": "OTERO",
-            "seven_letter": "OTERO",
-            "fourteen_letter": "OTERO"
+            "three_letter": "STA",
+            "five_letter": "STARK",
+            "seven_letter": "STARKXX",
+            "fourteen_letter": "STARKXXXXXXXXX"
         },
-        "name": "Otero",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
+        "name": "Stark",
+        "state": "IL",
+        "api_code": "088",
+        "geojson_id": 88
+    },
+    {
+        "abbreviations": {
+            "three_letter": "STE",
+            "five_letter": "STEPH",
+            "seven_letter": "STEPHEN",
+            "fourteen_letter": "STEPHENSONXXXX"
+        },
+        "name": "Stephenson",
+        "state": "IL",
         "api_code": "089",
-        "geojson_id": 291,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "PA-PC"
-            ],
-            "three_letter_prefix_ranges": [
-                "UXS-UZZ"
-            ]
-        }
+        "geojson_id": 89
     },
     {
         "abbreviations": {
-            "three_letter": "OUR",
-            "five_letter": "OURAY",
-            "seven_letter": "OURAY",
-            "fourteen_letter": "OURAY"
+            "three_letter": "TAZ",
+            "five_letter": "TAZEW",
+            "seven_letter": "TAZEWEL",
+            "fourteen_letter": "TAZEWELLXXXXXX"
         },
-        "name": "Ouray",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
+        "name": "Tazewell",
+        "state": "IL",
+        "api_code": "090",
+        "geojson_id": 90
+    },
+    {
+        "abbreviations": {
+            "three_letter": "UNI",
+            "five_letter": "UNION",
+            "seven_letter": "UNIONXX",
+            "fourteen_letter": "UNIONXXXXXXXXX"
+        },
+        "name": "Union",
+        "state": "IL",
         "api_code": "091",
-        "geojson_id": 292,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZF"
-            ],
-            "three_letter_prefix_ranges": [
-                "VAA-VAG"
-            ]
-        }
+        "geojson_id": 91
     },
     {
         "abbreviations": {
-            "three_letter": "PAR",
-            "five_letter": "PARK",
-            "seven_letter": "PARK",
-            "fourteen_letter": "PARK"
+            "three_letter": "VER",
+            "five_letter": "VERMI",
+            "seven_letter": "VERMILI",
+            "fourteen_letter": "VERMILIONXXXXX"
         },
-        "name": "Park",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Central Mountains",
+        "name": "Vermilion",
+        "state": "IL",
+        "api_code": "092",
+        "geojson_id": 92
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WAB",
+            "five_letter": "WABAS",
+            "seven_letter": "WABASHX",
+            "fourteen_letter": "WABASHXXXXXXXX"
+        },
+        "name": "Wabash",
+        "state": "IL",
         "api_code": "093",
-        "geojson_id": 293,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZD"
-            ],
-            "three_letter_prefix_ranges": [
-                "VAH-VBA"
-            ]
-        }
+        "geojson_id": 93
     },
     {
         "abbreviations": {
-            "three_letter": "PHI",
-            "five_letter": "PHILL",
-            "seven_letter": "PHILLPS",
-            "fourteen_letter": "PHILLIPS"
+            "three_letter": "WAR",
+            "five_letter": "WARRE",
+            "seven_letter": "WARRENX",
+            "fourteen_letter": "WARRENXXXXXXXX"
         },
-        "name": "Phillips",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "095",
-        "geojson_id": 294,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XY-XZ"
-            ],
-            "three_letter_prefix_ranges": [
-                "VBB-VBR"
-            ]
-        }
+        "name": "Warren",
+        "state": "IL",
+        "api_code": "094",
+        "geojson_id": 94
     },
     {
         "abbreviations": {
-            "three_letter": "PIT",
-            "five_letter": "PITKN",
-            "seven_letter": "PITKIN",
-            "fourteen_letter": "PITKIN"
-        },
-        "name": "Pitkin",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "097",
-        "geojson_id": 295,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZG-ZP"
-            ],
-            "three_letter_prefix_ranges": [
-                "VBS-VDM"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "PRW",
-            "five_letter": "PROWR",
-            "seven_letter": "PROWERS",
-            "fourteen_letter": "PROWERS"
-        },
-        "name": "Prowers",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "099",
-        "geojson_id": 296,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "VG-VH"
-            ],
-            "three_letter_prefix_ranges": [
-                "VDN-VEY"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "PUB",
-            "five_letter": "PUEBL",
-            "seven_letter": "PUEBLO",
-            "fourteen_letter": "PUEBLO"
-        },
-        "name": "Pueblo",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Front Range",
-        "api_code": "101",
-        "geojson_id": 297,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "GP-HD"
-            ],
-            "three_letter_prefix_ranges": [
-                "VEC-VVC"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "RBL",
-            "five_letter": "RBLNC",
-            "seven_letter": "RBLANCO",
-            "fourteen_letter": "RIOBLANCO"
-        },
-        "name": "Rio Blanco",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "103",
-        "geojson_id": 298,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YV-YW"
-            ],
-            "three_letter_prefix_ranges": [
-                "VVD-VVV"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "RGR",
-            "five_letter": "RGRAN",
-            "seven_letter": "RGRANDE",
-            "fourteen_letter": "RIOGRANDE"
-        },
-        "name": "Rio Grande",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Sun Luis Valley",
-        "api_code": "105",
-        "geojson_id": 299,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WJ-WL"
-            ],
-            "three_letter_prefix_ranges": [
-                "VVW-VWZ"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "RTT",
-            "five_letter": "ROUTT",
-            "seven_letter": "ROUTT",
-            "fourteen_letter": "ROUTT"
-        },
-        "name": "Routt",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "107",
-        "geojson_id": 300,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WZ-XA"
-            ],
-            "three_letter_prefix_ranges": [
-                "VXA-VYN"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "SAG",
-            "five_letter": "SAGCH",
-            "seven_letter": "SAGCHE",
-            "fourteen_letter": "SAGUACHE"
-        },
-        "name": "Saguache",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Sun Luis Valley",
-        "api_code": "109",
-        "geojson_id": 301,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "XU-XV"
-            ],
-            "three_letter_prefix_ranges": [
-                "VYP-VZA"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "SJN",
-            "five_letter": "SANJN",
-            "seven_letter": "SANJUAN",
-            "fourteen_letter": "SANJUAN"
-        },
-        "name": "San Juan",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Western Slope",
-        "api_code": "111",
-        "geojson_id": 302,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZE"
-            ],
-            "three_letter_prefix_ranges": [
-                "VZB-VZE"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "SMG",
-            "five_letter": "SANMG",
-            "seven_letter": "SANMIGU",
-            "fourteen_letter": "SANMIGUEL"
-        },
-        "name": "San Miguel",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "113",
-        "geojson_id": 303,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YX"
-            ],
-            "three_letter_prefix_ranges": [
-                "VZF-VZR"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "SDW",
-            "five_letter": "SEDGW",
-            "seven_letter": "SEDGWIC",
-            "fourteen_letter": "SEDGWICK"
-        },
-        "name": "Sedgwick",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "115",
-        "geojson_id": 304,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YB-YC"
-            ],
-            "three_letter_prefix_ranges": [
-                "WNL-WNY"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "SUM",
-            "five_letter": "SUMIT",
-            "seven_letter": "SUMMIT",
-            "fourteen_letter": "SUMMIT"
-        },
-        "name": "Summit",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Western Slope",
-        "api_code": "117",
-        "geojson_id": 305,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "ZL",
-                "ZR"
-            ],
-            "three_letter_prefix_ranges": [
-                "WNZ-WRM"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "TLR",
-            "five_letter": "TELLR",
-            "seven_letter": "TELLER",
-            "fourteen_letter": "TELLER"
-        },
-        "name": "Teller",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Front Range",
-        "api_code": "119",
-        "geojson_id": 306,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "YL"
-            ],
-            "three_letter_prefix_ranges": [
-                "WRN-WSR"
-            ]
-        }
-    },
-    {
-        "abbreviations": {
-            "three_letter": "WSH",
-            "five_letter": "WSHNG",
-            "seven_letter": "WSHNGT",
-            "fourteen_letter": "WASHINGTON"
+            "three_letter": "WAS",
+            "five_letter": "WASHI",
+            "seven_letter": "WASHING",
+            "fourteen_letter": "WASHINGTONXXXX"
         },
         "name": "Washington",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "121",
-        "geojson_id": 307,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "WW"
-            ],
-            "three_letter_prefix_ranges": [
-                "WST-WTK"
-            ]
-        }
+        "state": "IL",
+        "api_code": "095",
+        "geojson_id": 95
     },
     {
         "abbreviations": {
-            "three_letter": "WLD",
-            "five_letter": "WELD",
-            "seven_letter": "WELD",
-            "fourteen_letter": "WELD"
+            "three_letter": "WAY",
+            "five_letter": "WAYNE",
+            "seven_letter": "WAYNEXX",
+            "fourteen_letter": "WAYNEXXXXXXXXX"
         },
-        "name": "Weld",
-        "co_rx_consortium_zone": 2,
-        "co_dola_region": "Front Range",
-        "api_code": "123",
-        "geojson_id": 308,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "HY-JM"
-            ],
-            "three_letter_prefix_ranges": [
-                "WAA-WNK"
-            ]
-        }
+        "name": "Wayne",
+        "state": "IL",
+        "api_code": "096",
+        "geojson_id": 96
     },
     {
         "abbreviations": {
-            "three_letter": "YUM",
-            "five_letter": "YUMA",
-            "seven_letter": "YUMA",
-            "fourteen_letter": "YUMA"
+            "three_letter": "WHI",
+            "five_letter": "WHITE",
+            "seven_letter": "WHITEXX",
+            "fourteen_letter": "WHITEXXXXXXXXX"
         },
-        "name": "Yuma",
-        "co_rx_consortium_zone": 3,
-        "co_dola_region": "Eastern Plains",
-        "api_code": "125",
-        "geojson_id": 309,
-        "license_plate_codes": {
-            "two_letter_prefix_ranges": [
-                "VS-VT"
-            ],
-            "three_letter_prefix_ranges": [
-                "WTL-WUR"
-            ]
-        }
+        "name": "White",
+        "state": "IL",
+        "api_code": "097",
+        "geojson_id": 97
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WHI",
+            "five_letter": "WHITE",
+            "seven_letter": "WHITESI",
+            "fourteen_letter": "WHITESIDEXXXXX"
+        },
+        "name": "Whiteside",
+        "state": "IL",
+        "api_code": "098",
+        "geojson_id": 98
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WIL",
+            "five_letter": "WILLX",
+            "seven_letter": "WILLXXX",
+            "fourteen_letter": "WILLXXXXXXXXXX"
+        },
+        "name": "Will",
+        "state": "IL",
+        "api_code": "099",
+        "geojson_id": 99
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WIL",
+            "five_letter": "WILLI",
+            "seven_letter": "WILLIAM",
+            "fourteen_letter": "WILLIAMSONXXXX"
+        },
+        "name": "Williamson",
+        "state": "IL",
+        "api_code": "100",
+        "geojson_id": 100
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WIN",
+            "five_letter": "WINNE",
+            "seven_letter": "WINNEBA",
+            "fourteen_letter": "WINNEBAGOXXXXX"
+        },
+        "name": "Winnebago",
+        "state": "IL",
+        "api_code": "101",
+        "geojson_id": 101
+    },
+    {
+        "abbreviations": {
+            "three_letter": "WOO",
+            "five_letter": "WOODF",
+            "seven_letter": "WOODFOR",
+            "fourteen_letter": "WOODFORDXXXXXX"
+        },
+        "name": "Woodford",
+        "state": "IL",
+        "api_code": "102",
+        "geojson_id": 102
     }
 ]

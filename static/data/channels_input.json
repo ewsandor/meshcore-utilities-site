@@ -1,42 +1,21 @@
 [
-  {
-    "order": 4,
-    "name": "#bot",
-    "description": "Interact with helpful bots"
-  },
-  {
-    "order": 0,
-    "name": "#testing",
-    "description": "Test your devices, get feedback from other mesh members."
-  },
-  {
-    "order": 6,
-    "name": "#hamradio",
-    "description": "For HAM radio operators who love to geek out over antennas and noise floors."
-  },
-  {
-    "order": 1,
-    "name": "#emergency",
-    "description": "Get vital broadcasts (bad weather, traffic, disasters, etc.)"
-  },
-  {
-    "order": 2,
-    "name": "#weather",
-    "description": "See weather forecasts or casually complain about the Colorado's inconsistent seasons."
-  },
-  {
-    "order": 3,
-    "name": "#sports",
-    "description": "Share the highs and the lows of Colorado sports"
-  },
-  {
-    "order": 5,
-    "name": "#jokes",
-    "description": "It's mostly just dad jokes."
-  },
-  {
-    "order": 7,
-    "name": "#cm-reach",
-    "description": "Use in conjunction with https://rangecheck.meshcore.coloradomesh.org to see how connected you are to the wider mesh"
-  }
+  {"order": 0, "name": "#chicago", "description": "The main Chicagoland Mesh community channel.", "key": "c1c289b131e5222370cbc2048445844"},
+  {"order": 1, "name": "#chimesh", "description": "Chicagoland Mesh operators and local network discussion.", "key": "869d8ae6f43e99f7ef463027f916f1fc"},
+  {"order": 2, "name": "#suburbs", "description": "MeshCore discussion for the Chicago suburbs.", "key": "428a0416c430927e63d01a5da35839f0"},
+  {"order": 3, "name": "#emergency", "description": "Urgent public-safety, severe weather, and disaster broadcasts.", "key": "e1ad578d25108e344808f30dfdaaf926"},
+  {"order": 4, "name": "#hamradio", "description": "Ham radio, antennas, propagation, and radio engineering.", "key": "83c8b01997654265938da8765cbc7db9"},
+  {"order": 5, "name": "#jokes", "description": "A channel for jokes and light conversation.", "key": "abe610d61dee508c0ac18793c36c41c3"},
+  {"order": 6, "name": "#weather", "description": "Weather reports and local forecasts.", "key": "88f502554fee92a1625cfb311546e7cb"},
+  {"order": 7, "name": "#sports", "description": "Chicago sports discussion.", "key": "e8ee81f3aabf105d9ba2d2d4bd94fe4a"},
+  {"order": 8, "name": "#cubs", "description": "Chicago Cubs discussion.", "key": "567f84d8cd91406e7d84f962dc810522"},
+  {"order": 9, "name": "#whitesox", "description": "Chicago White Sox discussion.", "key": "adeb8f2ea5cca1624bbeb684821dc846"},
+  {"order": 10, "name": "#bears", "description": "Chicago Bears discussion.", "key": "e328bd6007f137d540491e0b98c0ef49"},
+  {"order": 11, "name": "#bulls", "description": "Chicago Bulls discussion.", "key": "1e223bd0935a1983832435b8b876f97d"},
+  {"order": 12, "name": "#blackhawks", "description": "Chicago Blackhawks discussion.", "key": "8f84f0a243ad2854c923d154d9c7fbe5"},
+  {"order": 13, "name": "#sky", "description": "Chicago Sky discussion.", "key": "caa8572648096df8de3f4aafb0677f04"},
+  {"order": 14, "name": "#bot", "description": "Interact with helpful bots.", "key": "eb50a1bcb3e4e5d7bf69a57c9dada211"},
+  {"order": 15, "name": "#test", "description": "Test whether your node is being heard without spamming the public channel.", "key": "9cd8fcf22a47333b591d96a2b848b73f"},
+  {"order": 16, "name": "#healthcheck", "description": "Network and node health checks.", "key": "3ae59c2cda86744c75e68b3975a902ae"},
+  {"order": 17, "name": "#wardriving", "description": "Wardriving observations and mobile mesh activity.", "key": "e3c26491e9cd321e3a6be50d57d54acf"},
+  {"order": 18, "name": "#chimesh-observer-alert", "description": "Alerts from Chicagoland Mesh observer nodes.", "key": "5223d5371c7c13c349341d5f9537a555"}
 ]
